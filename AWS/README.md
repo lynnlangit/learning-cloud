@@ -1,2 +1,3 @@
-# learning-cloud
-Companion Repo for course 'Cloud Careers and Certifications' on LinkedIn Learning
+# AWS Certifications
+
+List of certifications for AWS
