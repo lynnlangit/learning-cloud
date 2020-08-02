@@ -15,6 +15,8 @@
     - 'learning-nosql' - [link](https://github.com/lynnlangit/learning-nosql)
     - 'gcp-for-bioinformatics - [link](https://github.com/lynnlangit/gcp-for-bioinformatics)  
 - My Medium Articles - [link](https://medium.com/search?q=gcp%20langit)
+- My YouTube bioinformatics GCP playlist - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYtE5Tae3epNab3mK9iP1iWX)
+- My YouTube general GCP playlist - [link](https://www.youtube.com/playlist?list=PL6971A0258365F21E)
 - List of certifications for Google Cloud Platform - [Link](https://cloud.google.com/certification)
 
 ![GCP](https://github.com/lynnlangit/learning-cloud/blob/master/GCP/gcp.png)
