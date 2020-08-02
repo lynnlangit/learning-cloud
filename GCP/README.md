@@ -1,4 +1,4 @@
-# GCP Certifications
+# GCP Resources
 - My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit)
     - 'GCP Essentials' - start here
     - 'GCP Enterprise Essentials' - for enterprise cloud professionals

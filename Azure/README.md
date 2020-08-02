@@ -1,4 +1,4 @@
-# Azure Certifications
+# Azure Resources
 
 - My course 'Azure Databricks' (3 hours) - [link](https://www.linkedin.com/learning/azure-spark-databricks-essential-training).  Learning Objectives:
     - Business scenarios for Apache Spark
