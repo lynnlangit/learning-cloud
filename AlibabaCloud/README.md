@@ -1,7 +1,15 @@
 # Alibaba Cloud Resources
 
- - List of certifications for Alibaba Cloud - main [link](https://edu.alibabacloud.com/certification)
- - My course 'Learning Alibaba Cloud' - [link](https://www.linkedin.com/learning/learning-alibaba-cloud)
+ - My course 'Learning Alibaba Cloud' (2 hours) - [link](https://www.linkedin.com/learning/learning-alibaba-cloud).  Learning objectives: 
+    - Setting up an Alibaba Cloud account
+    - Creating and configuring VMs
+    - Creating and configuring container clusters
+    - Creating functions
+    - Creating storage buckets and databases
+    - Managing resources with Cloud Shell
+    - Accessing the Marketplace
+    - Using the API Explorer console and templates  
+  - List of certifications for Alibaba Cloud - main [link](https://edu.alibabacloud.com/certification)
 
  ![Alibaba Cloud](https://github.com/lynnlangit/learning-cloud/blob/master/AlibabaCloud/alibaba-cloud.png)
 
