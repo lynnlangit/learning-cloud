@@ -1,4 +1,5 @@
 # AWS Resources
+- AWS Community Hero (for Data) - [link](https://aws.amazon.com/developer/community/heroes/lynn-langit/?did=dh_card&trk=dh_card)
 - My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20langit) - many! Just showning a subset below...
 
 ![AWS courses](https://github.com/lynnlangit/learning-cloud/blob/master/AWS/aws-courses.png)
