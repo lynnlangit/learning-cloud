@@ -11,6 +11,7 @@
 - My Medium Articles - [link](https://medium.com/search?q=aws%20langit)  
 - My YouTube Playlist for **serverless AWS** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYsa2A2D2_Zln2tkL4v4-ymO)
 - My YouTube Playlist for **general AWS** - [link](https://www.youtube.com/playlist?list=PL93B06369FAD34284)
+- Open Guide for AWS on GitHub - [link](https://github.com/open-guides/og-aws)
 
 - List of certifications for AWS:  
     - Main - https://aws.amazon.com/certification/
