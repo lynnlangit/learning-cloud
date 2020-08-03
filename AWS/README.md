@@ -5,12 +5,12 @@
 ![AWS courses](https://github.com/lynnlangit/learning-cloud/blob/master/AWS/aws-courses.png)
 
 - My example Repos
-    - 'hello-aws-data-services' - [link](https://github.com/lynnlangit/Hello-AWS-Data-Services)
-    - 'learning-hadoop-and-spark' - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
-    - 'learning-nosql' - [link](https://github.com/lynnlangit/learning-nosql)
+    - **'hello-aws-data-services'** - [link](https://github.com/lynnlangit/Hello-AWS-Data-Services)
+    - **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
+    - **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql)
 - My Medium Articles - [link](https://medium.com/search?q=aws%20langit)  
-- My YouTube Playlist for serverless AWS - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYsa2A2D2_Zln2tkL4v4-ymO)
-- My YouTube Playlist for general AWS - [link](https://www.youtube.com/playlist?list=PL93B06369FAD34284)
+- My YouTube Playlist for **serverless AWS** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYsa2A2D2_Zln2tkL4v4-ymO)
+- My YouTube Playlist for **general AWS** - [link](https://www.youtube.com/playlist?list=PL93B06369FAD34284)
 
 - List of certifications for AWS:  
     - Main - https://aws.amazon.com/certification/
