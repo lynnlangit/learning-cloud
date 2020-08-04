@@ -10,7 +10,12 @@
     - Accessing the Marketplace
     - Using the API Explorer console and templates  
   - My companion Repo
-    - **'Learning Alibaba Cloud'** - [link](https://github.com/lynnlangit/learning-alibaba-cloud)  
+    - **'Learning Alibaba Cloud'** - [link](https://github.com/lynnlangit/learning-alibaba-cloud) 
+
+  ---
+
+  ## Other Resources & Certification Info
+   
   - List of certifications for Alibaba Cloud - main [link](https://edu.alibabacloud.com/certification)
 
  ![Alibaba Cloud](https://github.com/lynnlangit/learning-cloud/blob/master/AlibabaCloud/alibaba-cloud.png)
