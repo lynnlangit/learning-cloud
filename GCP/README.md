@@ -1,5 +1,7 @@
 # GCP Resources
 
+![GCP](https://github.com/lynnlangit/learning-cloud/blob/master/images/gcp-locations.png)
+
 - **Google Developer Expert** (Cloud) - [link](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit)
 - My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit)
   - **'GCP Essentials'** - start here

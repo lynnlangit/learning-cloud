@@ -1,5 +1,7 @@
 # AWS Resources
 
+![AWS](https://github.com/lynnlangit/learning-cloud/blob/master/images/aws-locations.png)
+
 - AWS Community Hero (for Data) - [link](https://aws.amazon.com/developer/community/heroes/lynn-langit/?did=dh_card&trk=dh_card)
 - My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20langit) - I've created a number of **series** of AWS courses (18 total courses)
   - **AWS for Data Series**: Machine Learning, Data Analytics, Data Services, Data Security

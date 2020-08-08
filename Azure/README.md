@@ -1,5 +1,7 @@
 # Azure Resources
 
+![Azure](https://github.com/lynnlangit/learning-cloud/blob/master/images/azure-locations.png)
+
 - Microsoft Regional Directors - [link](https://rd.microsoft.com/en-us/lynn-langit)
 - My course **'Azure Databricks'** (3 hours) - [link](https://www.linkedin.com/learning/azure-spark-databricks-essential-training).  Learning Objectives:
 - Business scenarios for Apache Spark

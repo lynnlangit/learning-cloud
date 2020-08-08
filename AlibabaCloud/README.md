@@ -1,5 +1,7 @@
 # Alibaba Cloud Resources
 
+![Alibaba Cloud](https://github.com/lynnlangit/learning-cloud/blob/master/images/alibaba-locations.png)
+
 - Alibaba Cloud Community Builders - [link](https://www.alibabacloud.com/campaign/communitybuilder)
 - My course **'Learning Alibaba Cloud'** (2 hours) - [link](https://www.linkedin.com/learning/learning-alibaba-cloud).  Learning objectives: 
   - Setting up an Alibaba Cloud account
