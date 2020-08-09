@@ -15,3 +15,17 @@ This Repo is also a companion to my course ['Cloud Careers and Certifications'](
 
 - See the main file in each vendor folders for links
 - i.e. for AWS go to `\AWS` folder -> `README.md`, etc...
+
+# Which Cloud Vendor?
+
+Picking one or more cloud vendors is a key choice when adoption public cloud services.  The global market trends (shown below) can be seen as a starting point for you.  
+
+![Trends](https://github.com/lynnlangit/learning-cloud/blob/master/images/trends.png)
+
+
+It is important to further refine your selection based on the following:
+
+- **cloud services needed** - does a potential vendor offer your desired services?
+- **cloud services location** - does a potential vendor have your desired services in your geography?
+- **community cloud skills** - what is the technical community in your geogrpahy for a potential vendor offer your desired services? 
+
