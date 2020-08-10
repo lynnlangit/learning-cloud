@@ -11,7 +11,7 @@ This Repo contains links to 100+ resources I've created for you to learn to work
 - my **sample data** in GitHub repo (10+) kinds of sample data - [link](https://github.com/lynnlangit/sample-data)
 - my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)  
   
-This Repo is also a companion to my course ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) on LinkedIn Learning.
+This Repo is also a companion to my course ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) on LinkedIn Learning or Lynda.com.
 
 - See the main file in each vendor folders for links
 - i.e. for AWS go to `\AWS` folder -> `README.md`, etc...
