@@ -33,5 +33,5 @@ It is important to further refine your selection based on the following:
 
 - **cloud services needed** - does a potential vendor offer your desired services?
 - **cloud services location** - does a potential vendor have your desired services in your geography?
-- **community cloud skills** - what is the technical community in your geography for a potential vendor offer your desired services? 
+- **community cloud skills** - what is the size of the technical community in your geography for a potential vendor? 
 
