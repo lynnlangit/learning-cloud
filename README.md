@@ -11,7 +11,8 @@ This Repo contains links to 100+ resources I've created for you to learn to work
 - my **technical articles** on Medium (40)
 - my **screencasts/talks** on YouTube (50+)
 - my **sample data** in GitHub repo (10+) kinds of sample data - [link](https://github.com/lynnlangit/sample-data)
-- my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)  
+- my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
+- mu **slide decks** on Slides.com (many...) - [link](https://slides.com/lynnlangit)
   
 This Repo is also a companion to my course ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) on LinkedIn Learning or Lynda.com.
 
