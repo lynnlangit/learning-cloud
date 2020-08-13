@@ -23,7 +23,7 @@
 
 ---
 
-## Other Resources & Certification Info
+## Other Resources & Certification Information
 
 - GCP Community Resources, including tutorials - [link](https://cloud.google.com/community/)
 - List of certifications for Google Cloud Platform - [Link](https://cloud.google.com/certification)
