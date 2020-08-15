@@ -23,7 +23,7 @@
 
 ---
 
-## Other Resources & Certification Information
+## Other Resources & Certification Info
 
 - GCP Community Resources, including tutorials - [link](https://cloud.google.com/community/)
 - GCP Services, defined concisely on one page - [link](https://github.com/gregsramblings/google-cloud-4-words)
