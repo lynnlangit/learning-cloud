@@ -5,8 +5,8 @@
 - AWS Community Hero (for Data) - [link](https://aws.amazon.com/developer/community/heroes/lynn-langit/?did=dh_card&trk=dh_card)
 - My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20langit) - I've created a number of **series** of AWS courses (18 total courses)
   - **AWS for Data Series**: Machine Learning, Data Analytics, Data Services, Data Security
-  - **AWS for DevOps Series**: Amazon Workspaces, Monitoring, Metrics & Logging; High Availability & Elasticity: Continuous Delivery & Process; Security, Governance & Validation
-  - **AWS Architects Series**: Design & Implement Systems; AWS Controlling Cost, Advanced Security, High Availability & Continuous Delivery, Network & Storage Design
+  - **AWS for DevOps Series**: [AWS Controlling Cost](https://www.linkedin.com/learning/amazon-web-services-controlling-cost), Monitoring, Metrics & Logging; High Availability & Elasticity: Continuous Delivery & Process; Security, Governance & Validation; Amazon Workspaces
+  - **AWS Architects Series**: Advanced Security, High Availability & Continuous Delivery, Network & Storage Design; Design & Implement Systems
   - **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark) - includes AWS content
   - **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql) - includes AWS content
 - My example Repos
