@@ -16,7 +16,7 @@ This Repo contains links to 100+ resources I've created for you to learn to work
   
 This Repo is also a companion to my course ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) on LinkedIn Learning or Lynda.com.
 
-## How to Find the Information
+## How to Find the Info
 
 - See the main file in each vendor folders for links
 - i.e. for AWS go to `\AWS` folder -> `README.md`, etc...

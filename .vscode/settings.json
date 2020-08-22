@@ -3,5 +3,11 @@
         "bioinformatics",
         "langit",
         "screencasts"
-    ]
+    ],
+    "extensions.ignoreRecommendations": true,
+    "files.autoSave": "off",
+    "typescript.tsc.autoDetect": "off",
+    "npm.autoDetect": "off",
+    "debug.allowBreakpointsEverywhere": true,
+    "html.autoClosingTags": false
 }
