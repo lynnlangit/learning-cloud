@@ -1,0 +1,36 @@
+{
+  "title": "AWS-tour",
+  "steps": [
+    {
+      "file": "AWS/README.md",
+      "line": 7,
+      "description": "These courses are for specific topics in AWS",
+      "title": "AWS for Data Science"
+    },
+    {
+      "file": "AWS/README.md",
+      "line": 8,
+      "description": "These courses are for AWS DevOps topics",
+      "title": "AWS for DevOps"
+    },
+    {
+      "file": "AWS/README.md",
+      "line": 9,
+      "description": "This course series is for Cloud Architects",
+      "title": "AWS for Architects"
+    },
+    {
+      "file": "AWS/README.md",
+      "line": 13,
+      "description": "Example GitHub Repos include scripts, demos and sample datasets",
+      "title": "Example GitHub Repos"
+    },
+    {
+      "file": "AWS/README.md",
+      "line": 24,
+      "description": "The open guide to AWS is a useful resource, written by the user community",
+      "title": "The Open Guide to AWS on GitHub"
+    }
+  ],
+  "ref": "master"
+}
