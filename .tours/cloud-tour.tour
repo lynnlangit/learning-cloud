@@ -1,0 +1,24 @@
+{
+  "title": "Cloud-tour",
+  "steps": [
+    {
+      "file": "README.md",
+      "line": 9,
+      "description": "This link goes to my LinkedIn Learning Cloud courses",
+      "title": "LinkedIn Learning Courses"
+    },
+    {
+      "file": "README.md",
+      "line": 12,
+      "description": "This link goes to my YouTube Channel.  I have playlists by topic there too.",
+      "title": "YouTube Screencasts"
+    },
+    {
+      "file": "README.md",
+      "line": 22,
+      "description": "I have one page per cloud in this repo.  Go to the vendor folder, then the `README.md` file in that folder.\n\nFor example for AWS, [Open AWS CodeTour](command:codetour.startTourByTitle?[\"AWS-tour\"])",
+      "title": "GOTO AWS CodeTour"
+    }
+  ],
+  "ref": "master"
+}
