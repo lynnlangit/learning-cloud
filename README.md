@@ -20,7 +20,7 @@ This Repo is also a companion to my course ['Cloud Careers and Certifications'](
 
 - See the main file in each vendor folders for links
   - for AWS go to `\AWS` folder -> `README.md`
-  - for GCP go to `\GCP` folder -> `README.md`
+  - for GCP go to `\GCP` folder -> `README.md`, etc...
 
 ---
 
