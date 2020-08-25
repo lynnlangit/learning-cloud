@@ -19,7 +19,8 @@ This Repo is also a companion to my course ['Cloud Careers and Certifications'](
 ## How to Find the Info
 
 - See the main file in each vendor folders for links
-- i.e. for AWS go to `\AWS` folder -> `README.md`, etc...
+  - for AWS go to `\AWS` folder -> `README.md`
+  - for GCP go to `\GCP` folder -> `README.md`
 
 ---
 

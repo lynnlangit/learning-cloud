@@ -18,6 +18,11 @@
       "line": 22,
       "description": "I have one page per cloud in this repo.  Go to the vendor folder, then the `README.md` file in that folder.\n\nFor example for AWS, [Open AWS CodeTour](command:codetour.startTourByTitle?[\"AWS-tour\"])",
       "title": "GOTO AWS CodeTour"
+    },
+    {
+      "file": "README.md",
+      "line": 23,
+      "description": "I have one page per cloud in this repo.  Go to the vendor folder, then the `README.md` file in that folder.\n\nFor example for AWS, [Open GCP CodeTour](command:codetour.startTourByTitle?[\"GCP-tour\"])"
     }
   ],
   "ref": "master"

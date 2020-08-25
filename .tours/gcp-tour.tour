@@ -1,0 +1,21 @@
+{
+  "title": "GCP-tour",
+  "steps": [
+    {
+      "file": "GCP/README.md",
+      "line": 7,
+      "description": "The 'missing' GCP course - designed for beginners to the GCP cloud"
+    },
+    {
+      "file": "GCP/README.md",
+      "line": 11,
+      "description": "Uses GCP Dataproc - managed Hadoop and Spark"
+    },
+    {
+      "file": "GCP/README.md",
+      "line": 19,
+      "description": "Fully open source and free course for GCP - all examples use genomic datasets"
+    }
+  ],
+  "ref": "master"
+}
