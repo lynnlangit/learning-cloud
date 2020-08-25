@@ -26,10 +26,9 @@ This Repo is also a companion to my course ['Cloud Careers and Certifications'](
 
 ## Which Cloud Vendor
 
-Picking one or more cloud vendors is a key choice when adopting public cloud services.  The global market trends (shown below) can be seen as a starting point for you.  
+Selecting one or more cloud vendors is a key choice when adopting public cloud services.  The global market trends (shown below) can be seen as a starting point for you.  
 
-![Trends](https://github.com/lynnlangit/learning-cloud/blob/master/images/trends.png)
-
+![Trends](https://github.com/lynnlangit/learning-cloud/blob/master/images/trends.png)  
 
 It is important to further refine your selection based on the following:
 
@@ -37,3 +36,4 @@ It is important to further refine your selection based on the following:
 - **cloud services location** - does a potential vendor have your desired services in your geography?
 - **community cloud skills** - what is the size of the technical community in your geography for a potential vendor? 
 
+---
