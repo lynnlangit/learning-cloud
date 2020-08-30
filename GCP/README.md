@@ -1,5 +1,9 @@
 # GCP Resources
 
+**IMPORTANT: I am currently updating all GCP courses for 2020 - watch this page for release info**
+
+----
+
 ![GCP](https://github.com/lynnlangit/learning-cloud/blob/master/images/gcp-locations.png)
 
 - **Google Developer Expert** (Cloud) - [link](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit)
