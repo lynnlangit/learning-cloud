@@ -14,9 +14,11 @@ This Repo contains links to 100+ resources I've created for you to learn to work
 - my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
 - my **slide decks** on Slides.com (many...) - [link](https://slides.com/lynnlangit)
   
-This Repo is also a companion to my course ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) on LinkedIn Learning or Lynda.com.
+## Where do I Start
 
-## How to Find the Info
+This Repo is a companion to ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) on LinkedIn Learning or Lynda.com course.  It's a useful first course for those who are new working with public cloud services.
+
+## How to Find the Info by Vendor
 
 - See the main file in each vendor folders for links
   - for AWS go to `\AWS` folder -> `README.md`
@@ -24,7 +26,7 @@ This Repo is also a companion to my course ['Cloud Careers and Certifications'](
 
 ---
 
-## Which Cloud Vendor
+## How to select a Cloud Vendor
 
 Selecting one or more cloud vendors is a key choice when adopting public cloud services.  The global market trends (shown below) can be seen as a starting point for you.  
 
