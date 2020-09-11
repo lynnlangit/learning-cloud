@@ -16,7 +16,11 @@ This Repo contains links to 100+ resources I've created for you to learn to work
   
 ## Where do I Start
 
-This Repo is a companion to ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) on LinkedIn Learning or Lynda.com course.  It's a useful first course for those who are new working with public cloud services.
+- This Repo is a companion to  my ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) course on LinkedIn Learning or Lynda.com course.  It's a useful first course for those who are new working with public cloud services.
+- Pick a cloud vendor, set up a free trial (test) account for learning
+- Set up a budget alert on your test account - I suggest alerting on spend of over $ 50 USD per day
+- Select a scenario or service to start learning
+- Build and Learn...repeat!
 
 ## How to Find the Info by Vendor
 
