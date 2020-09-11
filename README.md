@@ -14,13 +14,13 @@ This Repo contains links to 100+ resources I've created for you to learn to work
 - my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
 - my **slide decks** on Slides.com (many...) - [link](https://slides.com/lynnlangit)
   
-## Where do I Start
+## How do I Start
 
-- This Repo is a companion to  my ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) course on LinkedIn Learning or Lynda.com course.  It's a useful first course for those who are new working with public cloud services.
-- Pick a cloud vendor, set up a free trial (test) account for learning
-- Set up a budget alert on your test account - I suggest alerting on spend of over $ 50 USD per day
-- Select a scenario or service to start learning
-- Build and Learn...repeat!
+- REVIEW - this Repo is a companion to my ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps) course on LinkedIn Learning or Lynda.com course.  It's a useful first course for those who are new working with public cloud services.
+- SELECT a cloud vendor, set up a free trial (test) account for learning
+- SETUP a budget alert on your test account - I suggest alerting on spend of over $ 50 USD per day
+- SELECT a scenario or service to start learning
+- BUILD and Learn...repeat!
 
 ## How to Find the Info by Vendor
 
