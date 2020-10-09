@@ -24,6 +24,7 @@
     - **Learning NoSQL** - [link](https://github.com/lynnlangit/learning-nosql) - includes AWS content
 - My example AWS GitHub Repos
   - **'hello-aws-data-services'** - [link](https://github.com/lynnlangit/Hello-AWS-Data-Services)
+  - **'aws-cost-control'** - [link](https://github.com/lynnlangit/aws-cost-control)
   - **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
   - **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql)
 - My Medium AWS Articles - [link](https://medium.com/search?q=aws%20langit)  
