@@ -1,8 +1,8 @@
 # Learning Cloud
 
-## What is Here
-
 ![Logos](https://github.com/lynnlangit/learning-cloud/blob/master/images/logos.png)
+
+## What is Here
 
 This Repo contains links to 100+ resources I've created for you to learn to work on the public cloud.  Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 
