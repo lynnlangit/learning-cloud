@@ -38,8 +38,15 @@ Selecting one or more cloud vendors is a key choice when adopting public cloud s
 
 It is important to further refine your selection based on the following:
 
-- **cloud services needed** - does a potential vendor offer your desired services?
-- **cloud services location** - does a potential vendor have your desired services in your geography?
-- **community cloud skills** - what is the size of the technical community in your geography for a potential vendor? 
+- **services needed** 
+  - does a potential vendor offer your desired services in their cloud?
+  - comparing service x vendor, which fits best?
+  - example: does `AWS IoT` or `Azure IoT` better meet your needs?
+- **services location(s)** 
+  - does a potential vendor have your desired services in your preferred location(s)?
+  - where are their data center(s)?
+- **community cloud skills** 
+  - what is the size of the total technical community for a potential vendor? 
+   - what is the size of the local technical community in your geography for a potential vendor? 
 
 ---
