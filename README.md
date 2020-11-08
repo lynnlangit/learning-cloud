@@ -25,8 +25,8 @@ This Repo contains links to 100+ resources I've created for you to learn to work
 ## How to Find the Info by Cloud Vendor
 
 - See the main file in each vendor folders for links
-  - for AWS go to `\AWS` folder -> `README.md`
-  - for GCP go to `\GCP` folder -> `README.md`, etc...
+  - for **AWS** go to `\AWS` folder -> `README.md`
+  - for **GCP** go to `\GCP` folder -> `README.md`, etc...
 
 ---
 
