@@ -13,13 +13,13 @@
   - **'Learning Hadoop'** - start here
   - **'Cloud Hadoop: Scaling Apache Spark'** - uses GCP Dataproc
   - **'Cloud NoSQL for SQL Pros'** - covers both GCP and AWS NoSQL
-- My example Repos
+- My example GCP Repos
   - **'gcp-essentials'** - [link](https://github.com/lynnlangit/gcp-essentials)
   - **'gcp-ml'** - [link](https://github.com/lynnlangit/gcp-ml)
   - **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
   - **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql)
   - **'gcp-for-bioinformatics'** - [link](https://github.com/lynnlangit/gcp-for-bioinformatics)  
-- My Medium Articles - [link](https://medium.com/search?q=gcp%20langit)
+- My GCP Medium Articles - [link](https://medium.com/search?q=gcp%20langit)
 - My YouTube bioinformatics GCP playlist - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYtE5Tae3epNab3mK9iP1iWX)
 - My YouTube general GCP playlist - [link](https://www.youtube.com/playlist?list=PL6971A0258365F21E)
 
