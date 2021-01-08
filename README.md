@@ -4,12 +4,13 @@
 
 ## What is Here
 
-This Repo contains links to 100+ resources I've created for you to learn to work on the public cloud.  Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
+This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
+Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.  
 
-- my **courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
+- my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
 - my **example code** in Github repos (10+) - [link](https://github.com/lynnlangit)
-- my **technical articles** on Medium (40)
-- my **screencasts/talks** on YouTube (50+)
+- my **technical articles** on Medium (40) - cloud topics
+- my **screencasts/talks** on YouTube (50+) - cloud topics
 - my **sample data** in GitHub repo (10+) kinds of sample data - [link](https://github.com/lynnlangit/sample-data)
 - my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
 - my **slide decks** on Slides.com (many...) - [link](https://slides.com/lynnlangit)
