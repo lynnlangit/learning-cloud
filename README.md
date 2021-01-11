@@ -24,11 +24,11 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
   
 ## How to Start
 
-- REVIEW - this Repo is a companion to my ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps-2) course on LinkedIn Learning or Lynda.com course.  It's a useful first course for those who are new working with public cloud services.
-- SELECT a cloud vendor, set up a free trial (test) account for learning
-- SETUP a budget alert on your test account - I suggest alerting on spend of over $ 50 USD per day
-- SELECT a scenario or service to start learning
-- BUILD and Learn...repeat!
+1. REVIEW - this Repo is a companion to my ['Cloud Careers and Certifications'](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps-2) course on LinkedIn Learning or Lynda.com course.  It's a useful first course for those who are new working with public cloud services.
+2. SELECT a cloud vendor, set up a free trial (test) account for learning
+3. SETUP a budget alert on your test account - I suggest alerting on spend of over $ 50 USD per day
+4. SELECT a scenario or service to start learning
+5. BUILD and Learn...repeat!
 
 ## How to Find the Info by Cloud Vendor
 
