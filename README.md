@@ -9,16 +9,16 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 
 ### Courses and Articles
 
-- my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
-- my **example code** in Github repos (10+) - [link](https://github.com/lynnlangit)
-- my **technical articles** on Medium (40) - cloud topics
-- my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
+- 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
+- 📖 my **example code** in Github repos (10+) - [link](https://github.com/lynnlangit)
+- 📖 my **technical articles** on Medium (40) - cloud topics
+- 📖 my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
 
 ### Screencasts, Sample Data and Slide Decks
 
-- my **screencasts/talks** on YouTube (50+) - cloud topics
-- my **sample data** in GitHub repo (10+) kinds of sample data - [link](https://github.com/lynnlangit/sample-data)
-- my **slide decks** on Slides.com (many...) - [link](https://slides.com/lynnlangit)
+- 🗣️ my **screencasts/talks** on YouTube (50+) - cloud topics
+- 🗄️ my **sample data** in GitHub repo (10+) kinds of sample data - [link](https://github.com/lynnlangit/sample-data)
+- 🗣️ my **slide decks** on Slides.com (many...) - [link](https://slides.com/lynnlangit)
 
 ---
   
