@@ -8,7 +8,7 @@ The reference pattern...
 
 ## Managed Kubernetes / GKE
 
-GCP includes the [`Google Kubernetes Engine`](https://cloud.google.com/kubernetes-engine) as a container cluster controller. GKE can be configured to use an auto-scaling service.  Also PAPI (see below) can be used.  
+GCP includes the [`Google Kubernetes Engine`](https://cloud.google.com/kubernetes-engine) as a container cluster controller. GKE can be configured to use an auto-scaling service.  Also PAPI, which is now called `Google Life Sciences API` (see below) can be used.  
 
 <img src="https://github.com/lynnlangit/learning-cloud/blob/38919ae405d672286aec0a33ebe01e1b42c3d096/images/data-lakes/gcp-k8.png">
 
