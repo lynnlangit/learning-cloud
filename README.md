@@ -11,7 +11,7 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 
 - 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
 - 📖 my **example code** in Github repos (10+) - [link](https://github.com/lynnlangit)
-- 📖 my **technical articles** on Medium (40) - cloud topics
+- 📖 my **technical articles** on Medium (40) - cloud topics - [link](https://medium.com/search?q=langit%20cloud)
 - 📖 my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
 
 ### Screencasts, Sample Data and Slide Decks
