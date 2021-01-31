@@ -16,7 +16,7 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 
 ### Screencasts, Sample Data and Slide Decks
 
-- 🗣️ my **screencasts/talks** on YouTube (50+) - cloud topics
+- 🗣️ my **screencasts/talks** on YouTube (50+) - cloud topics and more - [link](https://www.youtube.com/c/LynnLangit/playlists)
 - 🗄️ my **sample data** in GitHub repo (10+) kinds of sample data - [link](https://github.com/lynnlangit/sample-data)
 - 🗣️ my **slide decks** on Slides.com (many...) - [link](https://slides.com/lynnlangit)
 
