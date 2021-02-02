@@ -33,14 +33,12 @@
 - 📺 My YouTube general AWS Playlist for **general AWS** - [link](https://www.youtube.com/playlist?list=PL93B06369FAD34284)
 - 🏆 AWS Community Hero (for Data) - [link](https://aws.amazon.com/developer/community/heroes/lynn-langit/?did=dh_card&trk=dh_card)
 
-![AWS](https://github.com/lynnlangit/learning-cloud/blob/master/images/aws-locations.png)
-
 ---
 
 ## Top AWS Resources & Certification Info
 
-- Open Guide for AWS on GitHub - [link](https://github.com/open-guides/og-aws)
-- AWS Architecture Center, includes reference architectures - [link](https://aws.amazon.com/architecture)
+- :octocat: Open Guide for AWS on GitHub - [link](https://github.com/open-guides/og-aws)
+- 📚 AWS Architecture Center, includes reference architectures - [link](https://aws.amazon.com/architecture)
 - List of certifications for AWS:  
   - Main certification site - [link](https://aws.amazon.com/certification/)
   - Cert Prep site - [link]( https://aws.amazon.com/certification/certification-prep/)
