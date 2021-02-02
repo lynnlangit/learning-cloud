@@ -1,8 +1,6 @@
 # AWS Resources
 
-![AWS](https://github.com/lynnlangit/learning-cloud/blob/master/images/aws-locations.png)
-
-- My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20%2B%20lynn%20langi) - I've created a number of **series** of AWS courses (18 total courses):
+- My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20%2B%20lynn%20langi) - I've created a number of **series** of AWS courses (**18 courses!**):
   - **AWS for Data Series**: 
     - Machine Learning
     - Data Analytics
@@ -22,6 +20,9 @@
   - **Big Data courses:**:
     - **Learning Hadoop and Spark** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark) - includes AWS content
     - **Learning NoSQL** - [link](https://github.com/lynnlangit/learning-nosql) - includes AWS content
+    
+## Other AWS Resource from Lynn 
+
 - My example AWS GitHub Repos
   - **'hello-aws-data-services'** - [link](https://github.com/lynnlangit/Hello-AWS-Data-Services)
   - **'aws-cost-control'** - [link](https://github.com/lynnlangit/aws-cost-control)
@@ -32,13 +33,14 @@
 - My YouTube general AWS Playlist for **general AWS** - [link](https://www.youtube.com/playlist?list=PL93B06369FAD34284)
 - AWS Community Hero (for Data) - [link](https://aws.amazon.com/developer/community/heroes/lynn-langit/?did=dh_card&trk=dh_card)
 
+![AWS](https://github.com/lynnlangit/learning-cloud/blob/master/images/aws-locations.png)
+
 ---
 
-## Other Resources & Certification Info
+## Top AWS Resources & Certification Info
 
 - Open Guide for AWS on GitHub - [link](https://github.com/open-guides/og-aws)
 - AWS Architecture Center, includes reference architectures - [link](https://aws.amazon.com/architecture)
-
 - List of certifications for AWS:  
   - Main certification site - [link](https://aws.amazon.com/certification/)
   - Cert Prep site - [link]( https://aws.amazon.com/certification/certification-prep/)
