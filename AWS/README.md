@@ -31,7 +31,7 @@
 - 📚 My Medium AWS Articles - [link](https://medium.com/search?q=aws%20langit)  
 - 📺 My YouTube AWS Serverless Playlist for **serverless AWS** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYsa2A2D2_Zln2tkL4v4-ymO)
 - 📺 My YouTube general AWS Playlist for **general AWS** - [link](https://www.youtube.com/playlist?list=PL93B06369FAD34284)
-- :award: AWS Community Hero (for Data) - [link](https://aws.amazon.com/developer/community/heroes/lynn-langit/?did=dh_card&trk=dh_card)
+- 🏆 AWS Community Hero (for Data) - [link](https://aws.amazon.com/developer/community/heroes/lynn-langit/?did=dh_card&trk=dh_card)
 
 ![AWS](https://github.com/lynnlangit/learning-cloud/blob/master/images/aws-locations.png)
 
