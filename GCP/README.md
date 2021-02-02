@@ -7,29 +7,29 @@
 ## Courses
 
 - My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit)
-  - **'GCP Essentials'** - start here
-  - **'GCP Enterprise Essentials'** - for enterprise cloud professionals
-  - **'GCP Machine Learning'** - covers machine learning on GCP
+  - 📺 **'GCP Essentials'** - start here
+  - 📺 **'GCP Enterprise Essentials'** - for enterprise cloud professionals
+  - 📺 **'GCP Machine Learning'** - covers machine learning on GCP
 - My Apache Hadoop/Spark and NoSQL courses on LinkedIn Learning (includes lots of GCP info)- [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=hadoop%20spark%20langit)
-  - **'Learning Hadoop'** - start here
-  - **'Cloud Hadoop: Scaling Apache Spark'** - uses GCP Dataproc
-  - **'Cloud NoSQL for SQL Pros'** - covers both GCP and AWS NoSQL
+  - 📺 **'Learning Hadoop'** - start here
+  - 📺 **'Cloud Hadoop: Scaling Apache Spark'** - uses GCP Dataproc
+  - 📺 **'Cloud NoSQL for SQL Pros'** - covers both GCP and AWS NoSQL
   
 ## Repos
 
 - My example GCP Repos
-  - **'gcp-essentials'** - [link](https://github.com/lynnlangit/gcp-essentials)
-  - **'gcp-ml'** - [link](https://github.com/lynnlangit/gcp-ml)
-  - **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
-  - **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql)
-  - **'gcp-for-bioinformatics'** - [link](https://github.com/lynnlangit/gcp-for-bioinformatics)  
+  - :octocat: **'gcp-essentials'** - [link](https://github.com/lynnlangit/gcp-essentials)
+  - :octocat: **'gcp-ml'** - [link](https://github.com/lynnlangit/gcp-ml)
+  - :octocat: **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
+  - :octocat: **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql)
+  - :octocat: **'gcp-for-bioinformatics'** - [link](https://github.com/lynnlangit/gcp-for-bioinformatics)  
   
 ## Articles, Screencasts and more  
 
-- My GCP Medium Articles - [link](https://medium.com/search?q=gcp%20langit)
-- My YouTube bioinformatics GCP playlist - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYtE5Tae3epNab3mK9iP1iWX)
-- My YouTube general GCP playlist - [link](https://www.youtube.com/playlist?list=PL6971A0258365F21E)
-- My GDE (Google Developer Expert for Cloud) award - [link](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit)
+- 📚 My GCP Medium Articles - [link](https://medium.com/search?q=gcp%20langit)
+- 📺  My YouTube bioinformatics GCP playlist - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYtE5Tae3epNab3mK9iP1iWX)
+- 📺  My YouTube general GCP playlist - [link](https://www.youtube.com/playlist?list=PL6971A0258365F21E)
+- 🏆 My GDE (Google Developer Expert for Cloud) award - [link](https://developers.google.com/community/experts/directory/profile/profile-lynn_langit)
 
 ---
 
