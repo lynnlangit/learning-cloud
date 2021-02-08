@@ -36,6 +36,7 @@
 ## Other Resources & Certification Info
 
 - GCP Community Resources, including tutorials - [link](https://cloud.google.com/community/)
+- GCP code samples - [link](https://cloud.google.com/docs/samples)
 - GCP Services, defined concisely on one page - [link](https://github.com/gregsramblings/google-cloud-4-words)
 - GCP Services compared to AWS services - [link](https://cloud.google.com/docs/compare/aws?hl=en_US)
 - List of certifications for Google Cloud Platform - [Link](https://cloud.google.com/certification) and shown below
