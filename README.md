@@ -31,10 +31,10 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
     - See the main file in each vendor folders for links
       - for **AWS** go to `\AWS` folder -> `README.md`
       - for **GCP** go to `\GCP` folder -> `README.md`, etc...
-    - more about vendor differences - [link](https://github.com/lynnlangit/learning-cloud/blob/master/VENDORS.md)
+    - Learn more about vendor differences - [link](https://github.com/lynnlangit/learning-cloud/blob/master/VENDORS.md)
 3. SETUP a **budget alert** on your test account - I suggest alerting on spend of over $ 50 USD per day
-4. SELECT a **scenario** or service to start learning
-5. BUILD and Learn...repeat!
+  - pick a **scenario** or service to start learning
+  - build your project on the cloud and Learn...repeat!
 
 ---
 
