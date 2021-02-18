@@ -22,7 +22,7 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 
 ---
   
-## How to Start
+## 3 STEPS to getting started
 
 1. REVIEW - this Repo and FAQ
     - this repo is a companion to my **'Cloud Careers and Certifications`** - [link](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps-2) course on LinkedIn Learning or Lynda.com course.  It is designed to be a first course for those who are new working with public cloud services
@@ -33,8 +33,8 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
       - for **GCP** go to `\GCP` folder -> `README.md`, etc...
     - Learn more about vendor differences - [link](https://github.com/lynnlangit/learning-cloud/blob/master/VENDORS.md)
 3. SETUP a **budget alert** on your test account - I suggest alerting on spend of over $ 50 USD per day
-  - pick a **scenario** or service to start learning
-  - build your project on the cloud and Learn...repeat!
+    - pick a **scenario** or service to start learning
+    - build your project on the cloud and Learn...repeat!
 
 ---
 
