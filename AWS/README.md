@@ -38,6 +38,7 @@
 ## Top AWS Resources & Certification Info
 
 - :octocat: Open Guide for AWS on GitHub - [link](https://github.com/open-guides/og-aws)
+- :octocat: How they AWS - [link](https://github.com/upgundecha/howtheyaws)
 - 📚 AWS Architecture Center, includes reference architectures - [link](https://aws.amazon.com/architecture)
 - List of certifications for AWS:  
   - Main certification site - [link](https://aws.amazon.com/certification/)
