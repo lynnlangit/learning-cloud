@@ -10,7 +10,7 @@
   - Data pipelines with Azure Databricks
   - Machine learning architectures
   - Using Azure Databricks for data warehousing
-- My example Repos  
+- :octocat: My example Repos  
   - **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
   - **'Learning Cromwell on Azure'** [link](https://github.com/lynnlangit/learning-cromwell-on-azure)
   - **'learning Github Codespaces'** - [link](https://github.com/lynnlangit/learning-codespaces)
