@@ -4,6 +4,7 @@
 - A: Most overall jobs - AWS
 - A: Cheapest, most performant to learn/experiment - GCP 
 - A: Fastest enterprise growth - Azure
+- A: Quantum - IBM
 
 ---
 

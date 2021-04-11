@@ -39,4 +39,8 @@ It is important to further refine your selection based on the following:
 - Positive - good variety of services, well-priced
 - Negative - derivative of AWS, based in China (privacy concerns), requires US passport (or other ID) to setup account
 
+### IBM Cloud - QUANTUM CLOUD
+- Positive - innovation in quantum computing - great tools
+- Negative - expensive for general cloud service
+
 
