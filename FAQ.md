@@ -38,7 +38,8 @@
 - Q: **Which certifications get me the highest paying jobs?**
 - A: GCP
 ---
-- Q: **Whare are the most interesting cloud data services by vendor?**
+- Q: **Whare are the most interesting/useful cloud data services by vendor?**
 - A: Azure - CosmosDB
-- A: AWS - S3
+- A: AWS - S3, EC2
 - A: GCP - BigQuery, AutoML
+- A: IBM - Qiskit (Quantum)
