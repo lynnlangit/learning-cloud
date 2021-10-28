@@ -20,6 +20,8 @@
   - **Big Data courses:**:
     - 📺 **Learning Hadoop and Spark** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark) - includes AWS content
     - 📺 **Learning NoSQL** - [link](https://github.com/lynnlangit/learning-nosql) - includes AWS content
+  - **End-user Computing course**:
+    - 📺 **Learning Amazon Workspaces** - will be available in 2022
     
 ## Other AWS Resource from Lynn 
 
@@ -28,6 +30,7 @@
   - **'aws-cost-control'** - [link](https://github.com/lynnlangit/aws-cost-control)
   - **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
   - **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql)
+  - **'learning-amazon-workspaces'** - [link](https://github.com/lynnlangit/learning-amazon-workspaces)
 - 📚 My Medium AWS Articles - [link](https://medium.com/search?q=aws%20langit)  
 - 📺 My YouTube AWS Serverless Playlist for **serverless AWS** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYsa2A2D2_Zln2tkL4v4-ymO)
 - 📺 My YouTube general AWS Playlist for **general AWS** - [link](https://www.youtube.com/playlist?list=PL93B06369FAD34284)
