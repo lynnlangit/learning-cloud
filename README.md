@@ -7,6 +7,8 @@
 This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
 Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.  
 
+- 🌟 NEW: Spring 2022 - my new **'Cloud Quantum Computing'** course on LI_L - associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
+
 ### Courses and Articles
 
 - 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
