@@ -14,6 +14,7 @@
   - **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
   - **'Learning Cromwell on Azure'** [link](https://github.com/lynnlangit/learning-cromwell-on-azure)
   - **'learning Github Codespaces'** - [link](https://github.com/lynnlangit/learning-codespaces)
+  - **'learning-quantum'** - [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors/azure-quantum) learning Q# and more
 - 📖 My Medium Articles - [link](https://medium.com/search?q=azure%20langit)
 - 🏆 My Microsoft Regional Director award - [link](https://rd.microsoft.com/en-us/lynn-langit)
 
