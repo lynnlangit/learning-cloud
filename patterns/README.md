@@ -2,12 +2,11 @@
 
 Cloud Patterns and design considerations
 
-## Considerations
-- My_Code --> My_App ? (add DevOps)
-- My_Methods --> My_App ? (use Microservices / Functions)
-- CODE + DATA + OTHER --> Cloud Native Apps
-- Streams | CRUD | Batches ? Data Methods
-- So Much "Other"
+## 4 Steps to Cloud Native
+1. My_Code --> My_App ? (add DevOps)
+2. My_Methods --> My_App ? (use Microservices / Functions)
+3. Streams | CRUD | Batches ? Data Methods
+4. CODE + DATA + OTHER --> Cloud Native Apps (so much "Other")
 
 ## Other
 
