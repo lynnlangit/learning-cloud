@@ -17,7 +17,7 @@
 ---
 
 - Q: **Which service(s)?**
-- A: Core services are VMs and file storage (AWS: EC2, S3....)
+- A: Core services are VMs, file storage and security (AWS: EC2, S3, IAM....)
 ---
 
 - Q: **How to get a job?**
@@ -40,6 +40,6 @@
 ---
 - Q: **Whare are the most interesting/useful cloud data services by vendor?**
 - A: Azure - CosmosDB
-- A: AWS - S3, EC2
-- A: GCP - BigQuery, AutoML
+- A: AWS - S3, EC2, AWS Braket (Quantum)
+- A: GCP - BigQuery, AutoML, DataProc (managed Apache Spark)
 - A: IBM - Qiskit (Quantum)
