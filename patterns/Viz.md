@@ -25,10 +25,12 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 - 🛠️ Hava.io - [link](https://app.hava.io/)
 - 🛠️ Diagrams.com - [link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
-## Techniques
-- 📐 Sketching
-- 📐 Perspectives (Dev, DevOps, Security)
-- 📐 Just-enough / evolving diagrams
+## Techniques and Examples
+- 📐 Sketching as a starting point - example (GCP CI/CD pipeline) -- [link](https://acloudguru.com/blog/engineering/cloud-based-ci-cd-on-gcp)
+- 📐 Technical Perspectives (Dev, DevOps, Security) 
+- 📐 User Perspectives (Researcher, Lab Lead, ...) - example (Terra.bio on GCP WDL Workflows) -- [link](https://lynnlangit.medium.com/cloud-native-hello-world-for-bioinformatics-3beb1ab820a)
+- 📐 Just-enough / evolving diagrams - example (Azure Genomics Pipelines) --[link](https://lynnlangit.medium.com/azure-for-genomic-scale-workloads-ad3c989a3d0b)
+- 📐 Right-sizing - example (VariantSpark on AWS pipeline -- [link](https://lynnlangit.medium.com/scaling-custom-machine-learning-on-aws-part-3-kubernetes-5427d96f825b)
 - 📐 Connected / live diagrams
 
 ## Examples
