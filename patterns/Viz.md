@@ -41,3 +41,6 @@ The following examples illustrate various concepts in cloud systems visualizatio
 
 ### Cloud Pipeline implementation choices
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/research-pipelines.png" width=1000>
+
+### Sketch of architectural pattern
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/lake-sketch.png" width=800>
