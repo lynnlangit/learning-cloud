@@ -38,3 +38,6 @@ The following examples illustrate various concepts in cloud systems visualizatio
 
 ### High-level conceptual system
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/modern-cloud-arch.png" width=800>
+
+### Cloud Pipeline implementation choices
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/research-pipelines.png" width=800>
