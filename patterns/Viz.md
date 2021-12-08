@@ -44,3 +44,6 @@ The following examples illustrate various concepts in cloud systems visualizatio
 
 ### Sketch of architectural pattern for Cloud Lake
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/lake-sketch.png" width=800>
+
+### Red-Yellow-Green DevOps progress 
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/RYG-progress.png" width=1000>
