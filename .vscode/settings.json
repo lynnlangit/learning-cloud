@@ -9,5 +9,8 @@
     "typescript.tsc.autoDetect": "off",
     "npm.autoDetect": "off",
     "debug.allowBreakpointsEverywhere": true,
-    "html.autoClosingTags": false
+    "html.autoClosingTags": false,
+    "files.watcherExclude": {
+        "**/target": true
+    }
 }
