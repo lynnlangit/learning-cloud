@@ -36,7 +36,7 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 - 📐 Right-sizing - example (VariantSpark on AWS pipeline -- [link](https://lynnlangit.medium.com/scaling-custom-machine-learning-on-aws-part-3-kubernetes-5427d96f825b)
 - 📐 Connected / live diagrams
 
-## Examples
+## Example Visualizations
 The following examples illustrate various concepts in cloud systems visualization.
 
 ### Conceptual system for Transactional Website (Excalidraw)
@@ -53,3 +53,6 @@ The following examples illustrate various concepts in cloud systems visualizatio
 
 ### Red-Yellow-Green DevOps progress (Lucidcharts)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/RYG-progress.png" width=1000>
+
+### AWS Genomics Pipeline (Lucidsharts)
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/aws-genomics-arch.png" width=1000>
