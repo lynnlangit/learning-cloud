@@ -27,7 +27,7 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 - 🛠️ Hava.io: live cloud diagrams, multiple system perspectives - [link](https://app.hava.io/)
 - 🛠️ Diagrams.com: cloud diagrams as code - [link](https://diagrams.mingrammer.com/docs/getting-started/examples)
 
-## Techniques and Examples
+## Techniques and Articles
 - 📐 Sketching as a starting point - example (GCP CI/CD pipeline) -- [link](https://acloudguru.com/blog/engineering/cloud-based-ci-cd-on-gcp)
 - 📐 Technical Perspectives (Dev, DevOps, Security) 
 - 📐 User Perspectives (Researcher, Lab Lead, ...) - example (Terra.bio on GCP WDL Workflows) -- [link](https://lynnlangit.medium.com/cloud-native-hello-world-for-bioinformatics-3beb1ab820a)
