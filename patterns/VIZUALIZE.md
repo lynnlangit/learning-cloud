@@ -38,14 +38,14 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 ## Examples
 The following examples illustrate various concepts in cloud systems visualization.
 
-### Conceptual system for Transactional Website
+### Conceptual system for Transactional Website (Excalidraw)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/modern-cloud-arch.png" width=800>
 
-### Cloud Pipeline implementation choices
+### Cloud Pipeline implementation genomics choices (MindMup)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/research-pipelines.png" width=1000>
 
-### Sketch of architectural pattern for Cloud Lake
+### Sketch of architectural pattern for Cloud Lake (Excalidraw)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/lake-sketch.png" width=800>
 
-### Red-Yellow-Green DevOps progress 
+### Red-Yellow-Green DevOps progress (Lucidcharts)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/RYG-progress.png" width=1000>
