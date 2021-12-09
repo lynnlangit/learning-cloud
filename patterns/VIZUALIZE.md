@@ -22,6 +22,7 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 
 ## Tools
 - 🛠️ Excalidraw: Hand-drawn looking diagrams - [link](https://excalidraw.com/)
+- 🛠️ Beautiful.ai: Stylized slides with diagrams - [link](https://www.beautiful.ai/)
 - 🛠️ Lucidcharts: general purpose diagramming tool, some AWS integration - [link](https://lucid.app/)
 - 🛠️ Mindmup (Mindmaps): maps and decision trees - [link](https://www.mindmup.com/)
 - 🛠️ Hava.io: live cloud diagrams, multiple system perspectives - [link](https://app.hava.io/)
@@ -40,6 +41,9 @@ The following examples illustrate various concepts in cloud systems visualizatio
 
 ### Conceptual system for Transactional Website (Excalidraw)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/modern-cloud-arch.png" width=800>
+
+### Conceptual system for Data Lake (Beautiful.ai)
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/data-lake.png" width=800>
 
 ### Cloud Pipeline implementation genomics choices (MindMup)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/research-pipelines.png" width=1000>
