@@ -22,7 +22,7 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 
 ## Tools
 - 🛠️ Excalidraw: Hand-drawn looking diagrams - [link](https://excalidraw.com/)
-- 🛠️ Beautiful.ai: Stylized slides with diagrams - [link](https://www.beautiful.ai/)
+- 📣 Beautiful.ai: Stylized slides with diagrams - [link](https://www.beautiful.ai/)
 - 🛠️ Lucidcharts: general purpose diagramming tool, some AWS integration - [link](https://lucid.app/)
 - 🛠️ Mindmup (Mindmaps): maps and decision trees - [link](https://www.mindmup.com/)
 - 🛠️ Hava.io: live cloud diagrams, multiple system perspectives - [link](https://app.hava.io/)
@@ -30,16 +30,17 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 
 ## My Techniques and Articles
 - 📐 Sketching as a starting point - example (GCP CI/CD pipeline) -- [link](https://acloudguru.com/blog/engineering/cloud-based-ci-cd-on-gcp)
-- 📐 Technical Perspectives (Dev, DevOps, Security) 
+
 - 📐 User Perspectives (Researcher, Lab Lead, ...) - example (Terra.bio on GCP WDL Workflows) -- [link](https://lynnlangit.medium.com/cloud-native-hello-world-for-bioinformatics-3beb1ab820a)
 - 📐 Just-enough / evolving diagrams - example (Azure Genomics Pipelines) --[link](https://lynnlangit.medium.com/azure-for-genomic-scale-workloads-ad3c989a3d0b)
 - 📐 Right-sizing - example (VariantSpark on AWS pipeline -- [link](https://lynnlangit.medium.com/scaling-custom-machine-learning-on-aws-part-3-kubernetes-5427d96f825b)
 - 📐 Connected / live diagrams
 
 ### Other Resources
-- 📐  Article: How to review a Software Architecture Diagram (from Simon Brown) -- [link](https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0)
-- 📐  Post: Best Practices for Architecture Diagrams -- [link](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
-- 📐  Standards: Fundamental Modeling Concepts (FMC), visualization guidelines -[link](http://www.fmc-modeling.org/visualization_guidelines)
+- 📖 Article: Technical Perspectives (Dev, DevOps, Security) - "The 5 Types of Architecture Diagrams" --[link](https://www.readysetcloud.io/blog/allen.helton/the-5-types-of-architecture-diagrams/)
+- 📖 Article: How to review a Software Architecture Diagram (from Simon Brown) -- [link](https://dev.to/simonbrown/how-to-review-a-software-architecture-diagram-6p0)
+- 📖 Post: Best Practices for Architecture Diagrams -- [link](https://sportebois.medium.com/better-architecture-diagrams-for-agile-teams-actionable-tips-and-lessons-e76627dc4315)
+- ⚙️ Standards: Fundamental Modeling Concepts (FMC), visualization guidelines -[link](http://www.fmc-modeling.org/visualization_guidelines)
 
 ## Example Visualizations
 The following examples illustrate various concepts in cloud systems visualization.
