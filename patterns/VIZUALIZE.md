@@ -21,12 +21,13 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 - 📣 Slide deck - 2018 'Serverless SQL' - [link](https://slides.com/lynnlangit/serverless-sql-queries-10)
 
 ## Tools
-- 🛠️ Excalidraw: Hand-drawn looking diagrams - [link](https://excalidraw.com/)
+- 🖌️ Excalidraw: Hand-drawn looking diagrams - [link](https://excalidraw.com/)
 - 📣 Beautiful.ai: Stylized slides with diagrams - [link](https://www.beautiful.ai/)
 - 🛠️ Lucidcharts: general purpose diagramming tool, some AWS integration - [link](https://lucid.app/)
 - 🛠️ Mindmup (Mindmaps): maps and decision trees - [link](https://www.mindmup.com/)
 - 🛠️ Hava.io: live cloud diagrams, multiple system perspectives - [link](https://app.hava.io/)
 - 🛠️ Diagrams.com: cloud diagrams as code - [link](https://diagrams.mingrammer.com/docs/getting-started/examples)
+- 🛠️ Structurizr: Diagram code and systems - [link](https://structurizr.com/)
 
 ## My Techniques and Articles
 - 📐 Sketching as a starting point - example (GCP CI/CD pipeline) -- [link](https://acloudguru.com/blog/engineering/cloud-based-ci-cd-on-gcp)
