@@ -53,13 +53,16 @@ The following examples illustrate various concepts in cloud systems visualizatio
 ### 2. Conceptual design for Data Lake (Beautiful.ai)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/data-lake.png" width=800>
 
-### 3. Cloud Pipeline implementation genomics choices (MindMup)
+### 3. Conceptual design for Genomic Data Pipeline (Beautiful.ai)
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/genomic-pipeline.png" width=800>
+
+### 4. Cloud Pipeline implementation genomics choices (MindMup)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/research-pipelines.png" width=1000>
 
-### 4. Sketch of architectural pattern for Cloud Lake (Excalidraw)
+### 5. Sketch of architectural pattern for Cloud Lake (Excalidraw)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/lake-sketch.png" width=800>
 
-### 5. Red-Yellow-Green DevOps progress (Lucidcharts)
+### 6. Red-Yellow-Green DevOps progress (Lucidcharts)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/RYG-progress.png" width=1000>
 
 ### 6. AWS Genomics Pipeline (Lucidcharts)
