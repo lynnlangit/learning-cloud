@@ -15,6 +15,7 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 - 📖 my **example code** in Github repos (10+) - [link](https://github.com/lynnlangit)
 - 📖 my **technical articles** on Medium (40) - cloud topics - [link](https://medium.com/search?q=langit%20cloud)
 - 📖 my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
+- 📖 my **system visualization** tools, talks and examples - [link](https://github.com/lynnlangit/learning-cloud/blob/master/patterns/VIZUALIZE.md)
 
 ### Screencasts, Sample Data and Slide Decks
 
