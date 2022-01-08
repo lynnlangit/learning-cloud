@@ -17,7 +17,7 @@
     - 📺 Advanced Security
     - 📺 High Availability & Continuous Delivery
     - 📺 Network & Storage Design; Design & Implement Systems
-  - **Big Data courses:**:
+  - **Big Data courses**:
     - 📺 **Learning Hadoop and Spark** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark) - includes AWS content
     - 📺 **Learning NoSQL** - [link](https://github.com/lynnlangit/learning-nosql) - includes AWS content
   - **End-user Computing course**:
