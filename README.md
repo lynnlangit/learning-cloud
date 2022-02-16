@@ -39,7 +39,8 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
       - setup up MFA on AWS root user account - [link](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html) 
       - setup MFA on GCP user accounts - [link](https://www.trendmicro.com/cloudoneconformity/knowledge-base/gcp/CloudIAM/enable-mfa-for-user-accounts.html)
     - Learn more about **cloud vendor differences** - [link](https://github.com/lynnlangit/learning-cloud/blob/master/VENDORS.md)
-3. 💸 SETUP a **budget alert** on your test account - I suggest alerting on spend of over $ 50 USD per day
+3. 💸 SECURE and SETUP a **budget alert** on your test account - I suggest alerting on spend of over $ 50 USD per day
+    - follow **best practices** for security a demo account (AWS example) - [link](https://dev.to/aws-heroes/stop-aws-account-hacks-1bim)
     - pick a **scenario** or service to start learning
     - build your project on the cloud and Learn...repeat!
 
