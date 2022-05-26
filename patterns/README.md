@@ -1,6 +1,8 @@
 # Patterns
 
-Cloud Patterns and design considerations
+Cloud Patterns and design considerations. 
+
+START HERE: What is the [current state of your cloud](https://lynnlangit.medium.com/10-legacy-cloud-considerations-44b2a5073706?sk=75a729b527de05fa13103a913c9a45db) deployments (a list)?
 
 ## 4 Steps to Cloud Native
 1. My_Code ➡️ My_App ? (add DevOps)
