@@ -30,5 +30,9 @@ The following examples illustrate various concepts in cloud systems visualizatio
 ### 7. AWS Genomics Pipeline (Lucidcharts)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/aws-genomics-arch.png" width=1000>
 
+### 8. AWS CI-CD pipeline (Lucidcharts)
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/aws-ci-cd.png" width=1000>
+
+
 
 ---
