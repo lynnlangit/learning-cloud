@@ -2,7 +2,7 @@
 
 ## Talks and Decks
 
-See this page for a list with links
+See this page for a list with links --> https://github.com/lynnlangit/learning-cloud/blob/master/patterns/VIZ-concepts.md
 
 ---
 
@@ -27,7 +27,7 @@ The following examples illustrate various concepts in cloud systems visualizatio
 ### 6. Red-Yellow-Green DevOps progress (Lucidcharts)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/RYG-progress.png" width=1000>
 
-### 6. AWS Genomics Pipeline (Lucidcharts)
+### 7. AWS Genomics Pipeline (Lucidcharts)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/aws-genomics-arch.png" width=1000>
 
 
