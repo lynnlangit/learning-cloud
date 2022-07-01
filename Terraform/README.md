@@ -4,4 +4,9 @@
 
 ## Using Terraform
 
-More Info soon
+Basic commands are as follows:
+ - create a `main.nf` file in the current directory (example shown in this directory)
+ - `terraform init` to initialize the project
+    - `terraform plan` to plan the changes
+    - `terraform apply` to apply the changes
+    - `terraform destroy` to destroy the project
