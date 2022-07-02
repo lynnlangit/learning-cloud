@@ -25,3 +25,4 @@ There are a number of patters/concepts to consider/include:
 - Secrets storage / maangement (integrate w/provider, i.e. AWS Secrets Manager, etc...)
 - Testing - Terratest libraries
 - Terraform CDK (use programming languages to generate TF files)
+- CI/CD env - Terraform Cloud or provider (i.e. AWS Code Deploy, Code Build, Code Commit, etc...)
