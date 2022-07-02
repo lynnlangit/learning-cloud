@@ -5,6 +5,8 @@
 - *It allows you to use a consistent workflow over your infrastructure lifecycle, regardless of the resource provider. (supports AWS, Azure, GCP and more)*
 - *Infrastructure as code workflows let you declaratively manage a variety of services and automate your changes to them, reducing the risk of human error through manual operations."*
 
+- Concise article "What is Terraform?" --> https://medium.com/nerd-for-tech/nfrastructure-as-code-using-terraform-cb383017cbeb
+
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/terraform-arch.png" width=800>
 
 ## Using Terraform
@@ -16,7 +18,6 @@ Basic commands are as follows:
       - `terraform plan` to plan the changes
       - `terraform apply` to apply the changes
       - `terraform destroy` to destroy the project
-      
       
 ## Terraform Concepts
 
