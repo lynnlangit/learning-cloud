@@ -17,6 +17,7 @@ START HERE: What is the [current state of your cloud](https://lynnlangit.medium.
 - 📁 App Organization --> Folders & Projects
 - 🔥 Up Time --> Monitoring & Alerts
 - 🏗️ Updating --> CI/CD
+- :books: Data --> Data Mesh - [link](https://www.datamesh-architecture.com/)
 - ✨ Advanced Processing --> ML
 
 
