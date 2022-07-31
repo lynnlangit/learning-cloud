@@ -16,7 +16,7 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 ### Coming Soon in 2022
 
 - 🌟 Coming soon in 2022 - **'GCP Tools'** will be a course on LI_L & associated updates into repo example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools)
-- 🌟 Coming soon in 2022 - **'GCP Cost Control'** will be a course on LI_L
+- 🌟 Coming soon in 2022 - **'GCP Cost Control'** will be a course on LI_L, see WIP [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control) too
 
 
 ### Courses
