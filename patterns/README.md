@@ -12,7 +12,7 @@ START HERE: What is the [current state of your cloud](https://lynnlangit.medium.
 
 ## Other
 
-- 🔐 Users | Accounts --> Roles & Permissions - IAM comparison blog post -[link](https://ermetic.com/blog/cloud/aws-azure-and-gcp-the-ultimate-iam-comparison/)
+- 🔐 Users | Accounts --> Roles & Permissions - IAM comparison blog post - [link](https://ermetic.com/blog/cloud/aws-azure-and-gcp-the-ultimate-iam-comparison/)
 - 💳 Costs --> Billing & Control
 - 📁 App Organization --> Folders & Projects
 - 🔥 Up Time --> Monitoring & Alerts
