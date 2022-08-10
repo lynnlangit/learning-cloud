@@ -21,10 +21,11 @@
     - 📺 **Learning Hadoop and Spark** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark) - includes AWS content
     - 📺 **Learning NoSQL** - [link](https://github.com/lynnlangit/learning-nosql) - includes AWS content
   - **End-user Computing course**:
-    - 📺 **Learning Amazon Workspaces** - will be available in 2022
+    - 📺 **Learning Amazon Workspaces** - on LI_L at [link](https://www.linkedin.com/learning/amazon-workspaces-deploy-virtual-desktops-14472889)
     
 ## Other AWS Resource from Lynn 
 
+- :star: coming in late 2022 - new course **"aws-for-bioinformatics"** on platform TBA, there will be an associated GitHub repo as well.
 - :octocat: My example AWS GitHub Repos
   - **'hello-aws-data-services'** - [link](https://github.com/lynnlangit/Hello-AWS-Data-Services)
   - **'aws-cost-control'** - [link](https://github.com/lynnlangit/aws-cost-control)
