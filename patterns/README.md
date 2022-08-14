@@ -8,8 +8,9 @@ Cloud Patterns and design considerations.
 ## 4 Steps to Your First Cloud Native Applicattion
 1. Your_Code ➡️ Your_App ? (add DevOps or 'infrastructure as code')
 2. Your_Methods ➡️ Your_App ? (use Microservices / Functions or 'serverless')
-3. Streams | CRUD | Batches ➡️ Data Methods (select data store or SQL vs. NoSQL or DataLake [buckets])
-4. CODE + DATA + OTHER ➡️ Cloud Native Apps (implement 'other cloud service' or 'security [IAM] and more!')
+3. Your_Data as Streams | CRUD | Batches ➡️ Data Methods? (select data store or SQL | NoSQL | DataLake [buckets])
+4. CODE + DATA + OTHER_SERVICES ➡️ Cloud Native App Services? (implement 'other cloud service' or 'security [IAM]...')
+
 ### What are *Other* Cloud Service Types?
 
   - 🔐 Users | Accounts - Roles & Permissions - IAM comparison blog post - [link](https://ermetic.com/blog/cloud/aws-azure-and-gcp-the-ultimate-iam-comparison/)
