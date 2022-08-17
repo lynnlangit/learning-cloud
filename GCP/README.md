@@ -7,8 +7,8 @@
 ## Courses
 
 - 🌟 Coming in 2022 
-  - **'GCP Tools'** will be a course on LI_L & associated updates into repo example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools) 
-  - **'GCP Cost Control'** will be a course on LI_L, see WIP [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control) too
+  - **'GCP Tools'** will be a course on LI_L & associated updates into repo example in `tools` folder at [link]([https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/tools)) 
+  - **'GCP Cost Control'** will be a course on LI_L, see WIP [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
 - My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit)
   - 📺 **'GCP Essentials'** - start here
   - 📺 **'GCP Enterprise Essentials'** - for enterprise cloud professionals
