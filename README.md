@@ -15,9 +15,9 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 
 ### Coming in 2022
 
-- 🌟 Coming in 2022 - **'GCP Tools'** will be a course on LI_L & associated updates into repo example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools)
-- 🌟 Coming in 2022 - **'GCP Cost Control'** will be a course on LI_L, see WIP [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control) too
-- 🌟 Coming in 2022 - **'aws-for-bioinformatics'** will be a course on a TBD platform, there will be an associated GitHub Repo as well
+- 🌟 Coming in Sept 2022 - **'GCP Tools'** will be a course on LI_L & associated updates into repo example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools)
+- 🌟 Coming in Oct 2022 - **'GCP Cost Control'** will be a course on LI_L, see WIP [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control) too
+- 🌟 Coming in Nov 2022 - **'aws-for-bioinformatics'** will be a course on a TBD platform, there will be an associated GitHub Repo as well
 
 
 ### Courses
