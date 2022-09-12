@@ -10,12 +10,11 @@ Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.
 ### New in 2022
 
 - 🌟 NEW in 2022 - **'Learning SnowflakeDB'** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated working repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
+- 🌟 NEW in Sept 2022 - **'GCP Tools'** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated updates into repo example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools)
 - 🌟 NEW in 2022 -  **'Cloud Quantum Computing'** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - 🌟 NEW in 2022 - Studies on  **'Learning Ethical AI'** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 
 ### Coming in 2022
-
-- 🌟 Coming in Sept 2022 - **'GCP Tools'** will be a course on LI_L & associated updates into repo example in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools)
 - 🌟 Coming in Oct 2022 - **'GCP Cost Control'** will be a course on LI_L, see WIP [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/0c_cost_control) too
 - 🌟 Coming in Nov 2022 - **'aws-for-bioinformatics'** will be a course on a TBD platform, there will be an associated GitHub Repo as well
 
