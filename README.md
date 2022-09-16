@@ -15,7 +15,7 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 
 ### Coming Soon
 - 🌟 Coming in Oct 2022 - **'GCP Cost Control'** will be a course on LI_L, see repo [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/0c_cost_control/README.md) too
-- 🌟 In development - **'aws-for-bioinformatics'** will be a course on a TBD platform, there will be an associated GitHub Repo as well
+- 🌟 In development - **'aws-for-bioinformatics'** will be a course and associated GitHub Repo 
 
 
 ### Courses
@@ -50,7 +50,7 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
     - Set up **MFA (multi-factor authentication)** on the root user account for your trial cloud account to protect against account misuse by others
       - setup up MFA on AWS root user account - [link](https://docs.aws.amazon.com/IAM/latest/UserGuide/id_credentials_mfa_enable_virtual.html) 
       - setup MFA on GCP user accounts - [link](https://www.trendmicro.com/cloudoneconformity/knowledge-base/gcp/CloudIAM/enable-mfa-for-user-accounts.html)
-    - Learn more about **cloud vendor differences** - [link](https://github.com/lynnlangit/learning-cloud/blob/master/VENDORS.md)
+    - Learn more about **cloud vendor differences** - [link](https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/0_Starting-Points/VENDORS.md)
 3. 💸 SECURE and SETUP a **budget alert** on your test account - I suggest alerting on spend of over $ 50 USD per day
     - follow **best practices** for security a demo account (AWS example) - [link](https://dev.to/aws-heroes/stop-aws-account-hacks-1bim)
     - pick a **scenario** or service to start learning
