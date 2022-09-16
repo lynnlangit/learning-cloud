@@ -46,4 +46,4 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 
 ## Example Visualizations
 
-See this page for examples --> https://github.com/lynnlangit/learning-cloud/blob/master/patterns/VIZ-examples.md
+See this page for examples --> https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/Viz-Systems/VIZ-examples.md

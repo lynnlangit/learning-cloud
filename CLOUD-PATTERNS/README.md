@@ -24,4 +24,4 @@ Cloud Patterns and design considerations.
 
 ## End-to-end Example
 
-<img src="https://github.com/lynnlangit/learning-cloud/blob/master/patterns/images/modern-cloud-arch.png" width=800>
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD_PATTERNS/images/modern-cloud-arch.png" width=800>

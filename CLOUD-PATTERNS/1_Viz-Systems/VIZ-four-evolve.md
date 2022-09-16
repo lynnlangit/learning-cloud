@@ -2,8 +2,8 @@
 
 ## Concepts and Examples
 
-- See this page for a list with links --> https://github.com/lynnlangit/learning-cloud/blob/master/patterns/VIZ-concepts.md
-- See this page for a list with examples --> https://github.com/lynnlangit/learning-cloud/blob/master/patterns/VIZ-concepts.md
+- See this page for a list with links --> https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/VIZ-concepts.md
+- See this page for a list with examples --> https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/VIZ-concepts.md
 
 ---
 
