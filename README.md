@@ -9,7 +9,7 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 ### New in 2022
 
 - 🌟 NEW in 2022 - **'Learning SnowflakeDB'** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
-- 🌟 NEW in Sept 2022 - **'GCP Tools'** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam/tools)
+- 🌟 NEW in Sept 2022 - **'GCP Tools'** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
 - 🌟 NEW in 2022 -  **'Cloud Quantum Computing'** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - 🌟 NEW in 2022 - Studies on  **'Learning Ethical AI'** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 
