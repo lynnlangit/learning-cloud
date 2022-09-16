@@ -16,5 +16,7 @@ High level processes diagram shown below:
 
 ### GCP Bioinfomatics 
 
-Info about genomic pipeline architectures - [link](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md)
+Info about genomic pipeline architectures - [link](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md) and shown below.  
+
+<img src=https://raw.githubusercontent.com/lynnlangit/gcp-for-bioinformatics/master/images/new-main.png>
 
