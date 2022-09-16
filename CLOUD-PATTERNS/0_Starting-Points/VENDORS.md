@@ -23,7 +23,7 @@ It is important to further refine your selection based on the following:
 
 ## Vendor Characteristics
 
-### GCP - DEVELOPER CLOUD
+### GCP - DEVELOPER & DATA SCIENCE CLOUD
 - Positive - easy to set up for dev/experiements, cheap/fast & scalable, innovative ML services
 - Negative - Enterprise setup/support complex, idiosyncratic (i.e. 'Googly') service implementation
 
