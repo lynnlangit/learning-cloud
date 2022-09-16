@@ -13,9 +13,9 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 - 🌟 NEW in 2022 -  **'Cloud Quantum Computing'** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - 🌟 NEW in 2022 - Studies on  **'Learning Ethical AI'** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 
-### Coming in 2022
-- 🌟 Coming in Oct 2022 - **'GCP Cost Control'** will be a course on LI_L, see WIP [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/0c_cost_control/README.md) too
-- 🌟 Coming in Nov 2022 - **'aws-for-bioinformatics'** will be a course on a TBD platform, there will be an associated GitHub Repo as well
+### Coming Soon
+- 🌟 Coming in Oct 2022 - **'GCP Cost Control'** will be a course on LI_L, see repo [link](https://github.com/lynnlangit/gcp-essentials/blob/master/0_setup_and_iam_and_costs/0c_cost_control/README.md) too
+- 🌟 In development - **'aws-for-bioinformatics'** will be a course on a TBD platform, there will be an associated GitHub Repo as well
 
 
 ### Courses
