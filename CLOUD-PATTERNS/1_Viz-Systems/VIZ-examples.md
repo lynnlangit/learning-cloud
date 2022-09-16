@@ -2,7 +2,7 @@
 
 ## Talks and Decks
 
-See this page for a list with links --> https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/Viz-Systems/README.md
+See this page for a list with links --> [link](https://github.com/lynnlangit/learning-cloud/tree/master/CLOUD-PATTERNS/1_Viz-Systems)
 
 ---
 
