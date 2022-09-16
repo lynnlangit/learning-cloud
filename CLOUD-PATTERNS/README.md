@@ -20,8 +20,11 @@ Cloud Patterns and design considerations.
   - 🏗️ Updating - CI/CD
   - 📚 Data - Data Mesh - [link](https://www.datamesh-architecture.com/)
   - ✨ Advanced Processing - ML / AI
-
+  
+---
 
 ## End-to-end Example
 
-<img src="https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD_PATTERNS/images/modern-cloud-arch.png" width=800>
+Shown below are the building blocks of a modern cloud architecture
+
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/images/modern-cloud-arch.png" width=800>
