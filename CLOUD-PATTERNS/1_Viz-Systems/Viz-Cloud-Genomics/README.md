@@ -1,4 +1,4 @@
-# Viz Cloud Genomics 
+# Vizualize Cloud Genomic Pipelines
 
 Examples used in understand building Bioinformatics data analysis pipelines on the public cloud.
 
