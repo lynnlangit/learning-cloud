@@ -4,8 +4,7 @@
 
 ## What is Here
 
-This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
-Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.  
+This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.  Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.  I've also created a `CLOUD-PATTERNS` section to share best practice patterns and tools.
 
 ### New in 2022
 
