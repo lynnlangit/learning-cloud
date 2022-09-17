@@ -4,15 +4,18 @@ Examples used in understand building Bioinformatics data analysis pipelines on t
 
 ## Overview
 
-Sequencing top level processes:
-- Wet lab / sequencer
-- Primary analysis of sequencer data
-- Secondary analysis of primary analysis data
-- Teritary analysis of secondary analysis data
-- Data storage and access
+<img src="https://github.com/lynnlangit/TeamTeri/raw/master/Images/NGS-Workflow.png" width=600 align="right">
 
-High level processes diagram shown below:
-<img src="https://github.com/lynnlangit/TeamTeri/raw/master/Images/NGS-Workflow.png" width=800>
+Sequencing top level processes types are listed below and shown in the conceptual diagram:
+- Wet lab / sequencer - prepped samples are sequenced on a machine
+- **Primary analysis** pipeline of sequencer data - sequencer machine output files are analyzed
+- **Secondary analysis** pipeline of primary analysis data - primary analysis output files are analyzed
+- **Teritary analysis** pipeline of secondary analysis data - secondary analysis output files are analyzed
+- Data storage and access - this includes genomic reference datasets, along with storage of genomic files all along these processes
+
+High level processes diagram shown to the right: 
+
+
 
 ---
 
