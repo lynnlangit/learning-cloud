@@ -1,11 +1,14 @@
 # Patterns
 
-Cloud Patterns and design considerations. 
+### Core Cloud
 
-- My Checklist: *"What is the Current State of Your Cloud Deployments?"* - do a checkup of your cloud environment to get a baseline - [link](https://lynnlangit.medium.com/10-legacy-cloud-considerations-44b2a5073706?sk=75a729b527de05fa13103a913c9a45db) 
-- My Article: *"6 Cloud Adoption Patterns"* - particularly applies to enterprise-sized companies - [link](https://lynnlangit.medium.com/cloud-adoption-patterns-d47ffc5789fe)
+Core Cloud Patterns and design considerations, summarized below with a checklist, article and talk.  
 
-## 4 Steps to Your First Cloud Native Applicattion
+- ✅ My Checklist: **"What is the Current State of Your Cloud Deployments?"** - do a checkup of your cloud env to get a baseline - [link](https://lynnlangit.medium.com/10-legacy-cloud-considerations-44b2a5073706?sk=75a729b527de05fa13103a913c9a45db) 
+- :book: My Article: **"6 Cloud Adoption Patterns"** - particularly applies to enterprise-sized companies - [link](https://lynnlangit.medium.com/cloud-adoption-patterns-d47ffc5789fe)
+- :tv: My Talk: **"Cloud Adoption Patterns"** - expanded talk-version of article above - [link](https://www.youtube.com/watch?v=_su5lPuENNo)
+
+### 4 Steps to Your First Cloud Native Applicattion
 1. Your_Code ➡️ Your_App ? (add DevOps or 'infrastructure as code')
 2. Your_Methods ➡️ Your_App ? (use Microservices / Functions or 'serverless')
 3. Your_Data as Streams | CRUD | Batches ➡️ Data Methods? (select data store or SQL | NoSQL | DataLake [buckets])
