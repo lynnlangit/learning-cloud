@@ -2,6 +2,8 @@
 
 ### Core Cloud
 
+<img src="https://miro.medium.com/max/1100/1*qXdSJxH7DtetjDlGQRyFgA.png" width=800>
+
 Core Cloud Patterns and design considerations, summarized below with a checklist, article and talk.  
 
 - ✅ My Checklist: **"What is the Current State of Your Cloud Deployments?"** - do a checkup of your cloud env to get a baseline - [link](https://lynnlangit.medium.com/10-legacy-cloud-considerations-44b2a5073706?sk=75a729b527de05fa13103a913c9a45db) 
