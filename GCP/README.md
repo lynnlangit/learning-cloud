@@ -1,8 +1,6 @@
 # GCP Resources
 
-----
-
-![GCP](https://github.com/lynnlangit/learning-cloud/blob/master/images/gcp-locations.png)
+I have created a number of courses for GCP.  Many are on Linked In Learning with associated Repos on GitHub.  A couple are fully open source (on GitHub and YouTube).
 
 ## Courses
 
@@ -45,3 +43,7 @@
 - List of certifications for Google Cloud Platform - [Link](https://cloud.google.com/certification) and shown below
 
 ![GCP](https://github.com/lynnlangit/learning-cloud/blob/master/GCP/gcp.png)
+
+----
+
+![GCP](https://github.com/lynnlangit/learning-cloud/blob/master/images/gcp-locations.png)
