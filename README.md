@@ -10,7 +10,7 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 
 #### GCP Topics
 - 🌟 NEW **'GCP Tools'** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
-- 🌟 NEW in 2022 - **'GCP Cost Control'** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
+- 🌟 NEW **'GCP Cost Control'** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
 
 #### Data, Machine Learning and More
 - 🌟 NEW **'Learning SnowflakeDB'** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
