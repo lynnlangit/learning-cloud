@@ -18,6 +18,8 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 - 🌟 NEW Studies on  **'Learning Ethical AI'** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 - 🌟 In early preview - **'aws-for-bioinformatics'** a FREE and opne sourcecourse on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
 
+---
+
 ### Courses
 
 - 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
