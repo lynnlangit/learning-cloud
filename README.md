@@ -20,19 +20,19 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 
 ---
 
-### Courses
+### All Cloud Courses
 
 - 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
 - :octocat: my **example code** in Github repos (10+) - [link](https://github.com/lynnlangit)
 - 📖 my **system visualization** tools, talks and examples (list) - [link](https://github.com/lynnlangit/learning-cloud/tree/master/CLOUD-PATTERNS/1_Viz-Systems)
 - :octocat: my **course on bioinformatics for cloud** on GitHub (`TeamTeri`) - [link](https://github.com/lynnlangit/TeamTeri)
 
-### Articles
+### All Cloud Articles
 
 - 📖 my **technical articles** on Medium (40) - cloud topics - [link](https://medium.com/search?q=langit%20cloud)
 - 📖 my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
 
-### Screencasts, Sample Data and Slide Decks
+### All Cloud Screencasts, Sample Data and Slide Decks
 
 - 🗣️ my **screencasts/talks** on YouTube (50+) - cloud topics and more - [link](https://www.youtube.com/c/LynnLangit/playlists)
 - 🗄️ my **sample data** in GitHub repo (10+) kinds of sample data - [link](https://github.com/lynnlangit/sample-data)
