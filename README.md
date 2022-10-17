@@ -42,4 +42,4 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
   
 ## But, wait, "how do I get started in cloud?"
 
-If you are completely now to cloud, you might want to go here first --> [link](https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/0_Starting-Points/3-STEPS-TO-START.md)
+If you are completely **new to cloud**, you might want to go here first --> [link](https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/0_Starting-Points/3-STEPS-TO-START.md)
