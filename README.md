@@ -43,7 +43,7 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 ## 3 STEPS to getting started
 
 1. 🤔 REVIEW - this Repo and FAQ
-    - this repo is a companion to my **'Cloud Careers and Certifications`** - [link](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps-2) course on LinkedIn Learning or Lynda.com course.  It is designed to be a first course for those who are new working with public cloud services
+    - this repo is a companion to my **'Cloud Careers and Certifications`** - [link](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications-first-steps-14851328) course on LinkedIn Learning or Lynda.com course.  It is designed to be a first course for those who are new working with public cloud services
     - ❓ FAQ - here are the top 10 questions students ask about `learning-cloud` - [link](https://github.com/lynnlangit/learning-cloud/blob/master/FAQ.md)
 2. 🤔 SELECT a **cloud vendor** (AWS, GCP...), set up a free trial (test) account for learning
     - See the main file in each vendor folders for links
