@@ -1,6 +1,7 @@
 # GCP Resources
 
-I have created a number of courses for GCP.  Many are on Linked In Learning with associated Repos on GitHub.  A couple are fully open source (on GitHub and YouTube).
+I have created a number of courses for GCP.  Many are on Linked In Learning with associated Repos on GitHub.   
+- NOTE: A couple of these courses are fully open source (on GitHub and YouTube).
 
 ## Courses
 
