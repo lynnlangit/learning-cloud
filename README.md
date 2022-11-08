@@ -6,7 +6,10 @@
 
 This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.  Links to artifacts are included for AWS, Azure, GCP or Alibaba Cloud.  I've also created a `CLOUD-PATTERNS` section to share best practice patterns and tools.
 
-### New Courses in 2022
+### New Courses and Articles in 2022
+
+#### Cloud Articles
+- 🌟 NEW **'Lynn Langit's Cloud World'** [on Substack](https://lynnlangit.substack.com/)
 
 #### GCP Topics
 - 🌟 NEW **'GCP Tools'** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
@@ -16,7 +19,7 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 - 🌟 NEW **'Learning SnowflakeDB'** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
 - 🌟 NEW **'Cloud Quantum Computing'** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - 🌟 NEW Studies on  **'Learning Ethical AI'** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
-- 🌟 In early preview - **'aws-for-bioinformatics'** a FREE and opne sourcecourse on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
+- 🌟 In early preview - **'aws-for-bioinformatics'** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
 
 ---
 
