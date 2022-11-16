@@ -33,6 +33,9 @@ The following examples illustrate various concepts in cloud systems visualizatio
 ### 8. AWS CI-CD pipeline (Lucidcharts)
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/aws-ci-cd.png" width=1000>
 
+### 9. GCP Bioinformatics Processes including DataMesh (Excalidraw)
+<img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/batch-pipelines.png" width=1000>
+
 
 
 ---
