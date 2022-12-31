@@ -7,23 +7,23 @@ I have created a number of courses for GCP.  Many are on Linked In Learning with
 - 🌟 NEW in 2022 
   - 📺 **'GCP Tools'** course on [LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated Repo folder in `tools` section at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/tools) 
   - 📺 **'GCP Cost Control'** course on [LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), and associated Repo page at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
-- My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit)
-  - 📺 **'GCP Essentials'** - start here
-  - 📺 **'GCP Enterprise Essentials'** - for enterprise cloud professionals
-  - 📺 **'GCP Machine Learning'** - covers machine learning on GCP
+- My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit) to all GCP courses
+  - 📺 **'GCP Essentials'** - this is the first course to take in this series
+  - 📺 **'GCP Enterprise Essentials'** - take this course if you are an enterprise cloud professionals
+  - 📺 **'GCP Machine Learning'** - this course covers machine learning on GCP
 - My Apache Hadoop/Spark and NoSQL courses on LinkedIn Learning (includes lots of GCP info)- [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=hadoop%20spark%20langit)
-  - 📺 **'Learning Hadoop'** - start here
-  - 📺 **'Cloud Hadoop: Scaling Apache Spark'** - uses GCP Dataproc
-  - 📺 **'Cloud NoSQL for SQL Pros'** - covers both GCP and AWS NoSQL
+  - 📺 **'Learning Hadoop'** - this is the first course to take in this series 
+  - 📺 **'Cloud Hadoop: Scaling Apache Spark'** - uses GCP Dataproc - take this course to learn to use/scale Spark on GCP
+  - 📺 **'Cloud NoSQL for SQL Pros'** - this course covers both GCP and AWS NoSQL data services
   
 ## Repos
 
-- My example GCP Repos
-  - :octocat: **'gcp-essentials'** - [link](https://github.com/lynnlangit/gcp-essentials)
-  - :octocat: **'gcp-ml'** - [link](https://github.com/lynnlangit/gcp-ml)
-  - :octocat: **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark)
-  - :octocat: **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql)
-  - :octocat: **'gcp-for-bioinformatics'** - [link](https://github.com/lynnlangit/gcp-for-bioinformatics)  
+- My example GCP Repos and associated Courses
+  - :octocat: **'gcp-essentials'** - [link](https://github.com/lynnlangit/gcp-essentials) - companion to my LI_L 'GCP Essentials' course
+  - :octocat: **'gcp-ml'** - [link](https://github.com/lynnlangit/gcp-ml) - compantion to my my LI_L 'GCP ML' course
+  - :octocat: **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark) - companion to my LI_L 'Learning Hadoop' course
+  - :octocat: **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql) - compantion to my LI_L 'NoSQL' course
+  - :octocat: **'gcp-for-bioinformatics'** - [link](https://github.com/lynnlangit/gcp-for-bioinformatics) - includes YouTube screencast demo playlist - FREE COURSE! 
   
 ## Articles, Screencasts and more  
 
