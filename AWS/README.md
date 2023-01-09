@@ -46,6 +46,9 @@
 - :octocat: How they AWS - [link](https://github.com/upgundecha/howtheyaws)
 - :octocat: Awesome AWS Security - [link](https://github.com/jassics/awesome-aws-security)
 - 📚 AWS Architecture Center, includes reference architectures - [link](https://aws.amazon.com/architecture)
+
+## AWS Certifications
+
 - List of certifications for AWS:  
   - Main certification site - [link](https://aws.amazon.com/certification/)
   - Cert Prep site - [link]( https://aws.amazon.com/certification/certification-prep/)
