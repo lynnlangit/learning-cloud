@@ -26,6 +26,6 @@
 - Azure Cheat Sheet - list of all Azure services on one page - [link](https://github.com/milanm/azure-cheat-sheet)
 - Azure Architecture center, includes reference architectures - [link](https://docs.microsoft.com/en-us/azure/architecture/)
 - List of certifications for Microsoft Azure Cloud - [link](https://docs.microsoft.com/en-us/learn/certifications/)
-- Online poster with all certification types - [link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
-
+- Online poster with all certification types (see Azure section) - [link](https://query.prod.cms.rt.microsoft.com/cms/api/am/binary/RE2PjDI)
+- Shown below Microsoft certifications by job role  
 ![Azure](https://github.com/lynnlangit/learning-cloud/blob/master/Azure/azure.png)
