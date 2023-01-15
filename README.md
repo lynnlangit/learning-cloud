@@ -12,7 +12,7 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 
 #### Cloud Articles
 - 📚 **'Lynn Langit's Cloud World'** [on Substack](https://lynnlangit.substack.com/)
-- :octocat: Updated [`CLOUD-PATTERNS`](https://github.com/lynnlangit/learning-cloud/tree/master/CLOUD-PATTERNS) section to share best practice patterns and tools for cloud workloads.
+- :octocat: Updated [`CLOUD-PATTERNS`](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS) section to share best practice patterns and tools for cloud workloads.
 
 #### GCP Topics
 - :octocat: SOON - updated GCP Essentials and GCP Enterprise courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
