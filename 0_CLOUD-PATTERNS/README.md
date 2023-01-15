@@ -32,4 +32,4 @@ Core Cloud Patterns and design considerations, summarized below with a checklist
 
 Shown below are the building blocks of a modern cloud architecture
 
-<img src="https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/images/modern-cloud-arch.png" width=800>
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/0_CLOUD-PATTERNS/images/modern-cloud-arch.png" width=800>
