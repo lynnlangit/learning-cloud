@@ -8,12 +8,15 @@
 
 ---
 
-- Q: **Which language?**
-  - A: Python
+- Q: **Which languages?**
+  - A: Python (application development)
+  - A: Terraform (infrastructure)
 ---
 
 - Q: **Where to start?**
-  - A: Setup a free trial account
+  - A: Pick a vendor, setup a free trial account
+  - A: Set up multi-factor authentication for your login (email)
+  - A: Set up a billing alert, send to your email
 ---
 
 - Q: **Which service(s)?**
@@ -24,8 +27,9 @@
   - A: Build something, get certified, talk (post) about it - in this order
 ---
 
-- Q: **How do I avoid a bill cloud bill when learning?**
+- Q: **How do I avoid a surprise, big cloud bill when learning?**
   - A: Set a budget alert and notification
+  - A: Turn off VMs when not using
 ---
 
 - Q: **What are some 'overlooked' areas?**
@@ -35,9 +39,11 @@
 - Q: **Can I do ML on the cloud?**
   - A: Yes, use Jupyter Notebook instances (AWS SageMaker | GCP Notebook VMs)
 ---
+
 - Q: **Which certifications get me the highest paying jobs?**
   - A: GCP
 ---
+
 - Q: **Whare are the most interesting/useful cloud data services by vendor?**
   - A: Azure - CosmosDB
   - A: AWS - S3, EC2, AWS Braket (Quantum)
