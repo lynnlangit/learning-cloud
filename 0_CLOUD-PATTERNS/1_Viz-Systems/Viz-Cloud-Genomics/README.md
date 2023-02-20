@@ -27,7 +27,7 @@ Shown below are 5 different patterns (on GCP) for deploying the COMPUTE layer to
 
 ### GCP Bioinfomatics 
 
-Info about genomic pipeline architectures - [link](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md) and shown below. Example shows 'vision-on-a-page' for primary, secondary and tertiary cloud-based bioinformatics data analysis.  Example uses simplified representation of DATA layer and focused on COMPUTE layer concepts.
+Info about genomic pipeline architectures - [link](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md) and shown below. Example shows 'vision-on-a-page' for primary, secondary and tertiary cloud-based bioinformatics data analysis.  Example uses simplified representation of DATA layer and focuses on COMPUTE layer concepts for this reference architecture.
 
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/0_CLOUD-PATTERNS/images/new-main.png" width=1000>
 
