@@ -23,7 +23,7 @@ High level processes diagram shown to the right:
 
 Info about genomic pipeline architectures - [link](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md) and shown below.  
 
-<img src="https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/images/new-main.png" width=1000>
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/0_CLOUD-PATTERNS/images/new-main.png" width=1000>
 
 
 
