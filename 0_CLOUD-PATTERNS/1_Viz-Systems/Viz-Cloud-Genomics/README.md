@@ -19,9 +19,15 @@ High level processes diagram shown to the right:
 
 ---
 
+## Bio Tools Cloud Options
+
+Shown below are 5 different patterns (on GCP) for deploying the COMPUTE layer to support scalable bioinformatics tools.  Simplified data lake (bucket) pattern is shown for the DATA layer.
+
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/viz-tools.png" width=1000>
+
 ### GCP Bioinfomatics 
 
-Info about genomic pipeline architectures - [link](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md) and shown below.  
+Info about genomic pipeline architectures - [link](https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/6_ARCHITECTURE.md) and shown below. Example shows 'vision-on-a-page' for primary, secondary and tertiary cloud-based bioinformatics data analysis.  Example uses simplified representation of DATA layer and focused on COMPUTE layer concepts.
 
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/0_CLOUD-PATTERNS/images/new-main.png" width=1000>
 
