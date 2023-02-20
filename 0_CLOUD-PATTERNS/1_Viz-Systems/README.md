@@ -46,4 +46,4 @@ These include diagramming, drawing and connecting tools to existing (deployed) s
 
 ## Example Visualizations
 
-See this repo page for cloud system visualization examples --> [link](https://github.com/lynnlangit/learning-cloud/blob/master/CLOUD-PATTERNS/1_Viz-Systems/VIZ-examples.md)
+See this repo page for cloud system visualization examples --> [link](https://github.com/lynnlangit/learning-cloud/blob/master/0_CLOUD-PATTERNS/1_Viz-Systems/VIZ-examples.md)
