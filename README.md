@@ -21,6 +21,7 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 - 🌟 NEW **'GCP Cost Control'** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
 
 #### Data, Machine Learning and More
+- 🌟 NEW **'Learning Data Mesh'** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
 - 🌟 NEW **'Learning SnowflakeDB'** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
 - 🌟 NEW **'Cloud Quantum Computing'** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - :octocat: Studies on  **'Learning Ethical AI'** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
