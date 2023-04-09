@@ -8,12 +8,11 @@ NOTE: A couple of these courses are fully open source (on GitHub and YouTube).
 
 ## Courses
 
-- 🌟 NEW in 2022 
+- My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit) to all GCP courses
+  - **🌟 UPDATED in 2023** 📺 **'GCP Essentials'** - this is the first course to take in this series - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-for-administrators-22141609)
+  - **🌟 UPDATED in 2023** 📺 **'GCP Enterprise Essentials'** - take this course if you are an enterprise cloud professionals - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training-22140980)
   - 📺 **'GCP Tools'** course on [LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated Repo folder in `tools` section at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/tools) 
   - 📺 **'GCP Cost Control'** course on [LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), and associated Repo page at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
-- My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit) to all GCP courses
-  - 📺 **'GCP Essentials'** - this is the first course to take in this series
-  - 📺 **'GCP Enterprise Essentials'** - take this course if you are an enterprise cloud professionals
   - 📺 **'GCP Machine Learning'** - this course covers machine learning on GCP
 - My Apache Hadoop/Spark and NoSQL courses on LinkedIn Learning (includes lots of GCP info)- [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=hadoop%20spark%20langit)
   - 📺 **'Learning Hadoop'** - this is the first course to take in this series 
