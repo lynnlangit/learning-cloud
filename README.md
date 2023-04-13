@@ -10,22 +10,28 @@ This Repo contains links to **100+ resources** I've created for you to learn to 
 
 ### NEW Courses & Articles 
 
+#### UPDATES planned for 2023
+
+- 100% update of my `Learning Hadoop` course
+- 100% update of my `Serverless Architecture` course
+- 100% update of my `AWS Advanced Security` course
+
 #### Cloud Articles and Pattern Guideance
 - :octocat: My `CLOUD-PATTERNS` section to share best practice patterns and tools for cloud workloads - [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS)
 - :octocat: My `Serverless Architecture` companion repo to my course on LI_L - [link](https://github.com/lynnlangit/serverless-architecture)
 - 📚 **'Lynn Langit's Cloud World'** [on Substack](https://lynnlangit.substack.com/)
 
 #### GCP Topics
-- :octocat: Spring 2023 - **updated** GCP Essentials and GCP Enterprise courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
-- 🌟 NEW **'GCP Tools'** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
-- 🌟 NEW **'GCP Cost Control'** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
+- :octocat: Spring 2023 - **updated** `GCP Essentials` and `GCP Enterprise` courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
+- 🌟 NEW **`GCP Tools`** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
+- 🌟 NEW **`GCP Cost Control`** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
 
 #### Data, Machine Learning and More
-- 🌟 NEW **'Learning Data Mesh'** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
-- 🌟 NEW **'Learning SnowflakeDB'** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
-- 🌟 NEW **'Cloud Quantum Computing'** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
-- :octocat: Studies on  **'Learning Ethical AI'** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
-- :octocat: In preview - **'aws-for-bioinformatics'** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
+- 🌟 NEW **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
+- 🌟 NEW **`Learning SnowflakeDB`** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
+- 🌟 NEW **`Cloud Quantum Computing`** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
+- :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
+- :octocat: In preview - **`aws-for-bioinformatics`** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
 
 ---
 
