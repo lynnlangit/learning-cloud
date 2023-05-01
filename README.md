@@ -21,6 +21,7 @@ Links to artifacts are included for AWS, Azure, or GCP and more.
 - 🌟 📺 :octocat: Spring 2023 - **NEW VERSIONS** **`GCP Essentials`** and **`GCP Enterprise`** courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
 - 📺 **`GCP Tools`** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
 - 📺 **`GCP Cost Control`** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
+- 📺 :octocat: - Frequently Updated **`GCP-for-Bioinformatics`** [FREE course on GitHub](https://github.com/lynnlangit/gcp-for-bioinformatics)
 
 #### Data, Machine Learning and More
 - 📚:octocat:📺 **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
