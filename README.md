@@ -21,14 +21,14 @@ Links to artifacts are included for AWS, Azure, or GCP and more.
 - 🌟 📺 :octocat: Spring 2023 - **NEW VERSIONS** **`GCP Essentials`** and **`GCP Enterprise`** courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
 - 📺 **`GCP Tools`** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
 - 📺 **`GCP Cost Control`** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
-- 📺 :octocat: - Frequently Updated **`GCP-for-Bioinformatics`** [FREE course on GitHub](https://github.com/lynnlangit/gcp-for-bioinformatics)
+- 🧬 📺 :octocat: - Frequently Updated **`GCP-for-Bioinformatics`** [FREE course on GitHub](https://github.com/lynnlangit/gcp-for-bioinformatics)
 
 #### Data, Machine Learning and More
 - 📚:octocat:📺 **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
 - 📺 :octocat:**`Learning SnowflakeDB`** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
 - 📺 :octocat: **`Cloud Quantum Computing`** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
-- :octocat: In preview - **`aws-for-bioinformatics`** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
+- 🧬 :octocat: In preview - **`aws-for-bioinformatics`** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
 
 ---
 
@@ -38,7 +38,7 @@ Links to artifacts are included for AWS, Azure, or GCP and more.
 - 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
 - :octocat: my **example code** in Github repos (10+) - [link](https://github.com/lynnlangit)
 - 📖 my **system visualization** tools, talks and examples (list) - [link](https://github.com/lynnlangit/learning-cloud/tree/master/CLOUD-PATTERNS/1_Viz-Systems)
-- :octocat: my **course on bioinformatics for cloud** on GitHub (`TeamTeri`) - [link](https://github.com/lynnlangit/TeamTeri)
+- 🧬 :octocat: my **course on bioinformatics for cloud** on GitHub (`TeamTeri`) - [link](https://github.com/lynnlangit/TeamTeri)
 
 #### Cloud Architectures, Patterns and Articles
 - :octocat: My `CLOUD-PATTERNS` section to share best practice patterns and tools for cloud workloads - [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS)
