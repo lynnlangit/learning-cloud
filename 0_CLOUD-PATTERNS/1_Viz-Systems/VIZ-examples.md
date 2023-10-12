@@ -36,6 +36,9 @@ The following examples illustrate various concepts in cloud systems visualizatio
 ### 9. GCP Bioinformatics Processes including DataMesh (Excalidraw)
 <img src="https://github.com/lynnlangit/gcp-for-bioinformatics/blob/master/images/batch-pipelines.png" width=1000>
 
+### 10. GCP Scaling Jobs by Type (Lucidcharts)
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/0_CLOUD-PATTERNS/images/scale-jobs-arch.png" width=1000>
+
 
 
 ---
