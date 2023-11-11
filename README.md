@@ -9,7 +9,13 @@
 This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
 Links to artifacts are included for AWS, Azure, or GCP & more.  
 
-### NEW Courses & Articles 🌟🌟🌟
+### NEW Courses & Articles and more 🌟🌟🌟
+
+#### My GPT / Cloud Architect Lynn 
+
+- Custom GPT trained on my own public cloud information.  Requires a ChatGPT montly subscription ($ 20/m) to try - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
+- Screenshots below...
+  
 
 #### Course UPDATES scheduled for 2023
 
