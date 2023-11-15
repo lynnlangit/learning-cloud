@@ -17,7 +17,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 - Requires a ChatGPT montly subscription ($ 20/m) to try - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
 - Screenshot below...
 
-<img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/1-main-gpt.png" width=800>
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/1-main-gpt.png" width=500>
   
 
 #### Course UPDATES scheduled for 2023
