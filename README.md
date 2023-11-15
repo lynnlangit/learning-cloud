@@ -1,6 +1,5 @@
 # Learning Cloud
 
-![Logos](https://github.com/lynnlangit/learning-cloud/blob/master/images/logos.png)
 
 ---
 
