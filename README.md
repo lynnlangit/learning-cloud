@@ -18,7 +18,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 - Custom GPT trained on my own public cloud information.
 - Requires a ChatGPT montly subscription ($ 20/m) to try - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
-- Screenshot below...
+- Screenshot to the right...
 
 
   
