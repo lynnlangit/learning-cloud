@@ -23,12 +23,12 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
   
 
-#### Course UPDATES scheduled for 2023
+#### Course UPDATES scheduled for 2023 / 2024
 
-- 🌟 100% update of my **`Learning Hadoop`** course - [link](https://www.linkedin.com/learning/learning-hadoop-23008320)
 - 🌟 100% update of my **`Serverless Architecture`** course
 - 🌟 100% update of my **`AWS Advanced Security`** course
 - 🌟 100% update of my **`GCP ML`** course
+- 🌟 100% update of my **`Azure Databricks`** course
 
 #### GCP Topics
 - 📺 :octocat: **`GCP Essentials`** and **`GCP Enterprise`** courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
