@@ -25,7 +25,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 #### Course UPDATES scheduled for 2023 / 2024
 
-- 🌟 100% update of my **`Serverless Architecture`** course - [link](https://www.linkedin.com/learning/serverless-architecture-19870153)
+- 🌟 **`Serverless Architecture`** course - [link](https://www.linkedin.com/learning/serverless-architecture-19870153) & [repo](https://github.com/lynnlangit/serverless-architecture)
 - 🌟 100% update of my **`AWS Advanced Security`** course
 - 🌟 100% update of my **`GCP ML`** course
 - 🌟 100% update of my **`Azure Databricks`** course
