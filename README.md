@@ -8,27 +8,34 @@
 This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
 Links to artifacts are included for AWS, Azure, or GCP & more.  
 
+---
+
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/1-main-gpt.png" width=300 align="right">
 
-### NEW Courses & Articles and more 🌟🌟🌟
+### FRESH CONTENT
 
-#### My GPT / Cloud Architect Lynn 
+#### **NEW:** My Custom GPT: "Cloud Architect Lynn GPT"
 
-
+I built a custom GPT using my cloud body of work (12+ years of information).  
 
 - 🧠 Custom GPT trained on my own public cloud information.
-- 🤖 Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
-- 🧠 Screenshot to the right...
+  - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
+  - Screenshot to the right...
 
 
   
 
-#### Course UPDATES scheduled for 2023 / 2024
+#### NEWS for LinkedIn Learning Courses in 2023 / 2024
 
-- 🌟 **`Serverless Architecture`** course - [link](https://www.linkedin.com/learning/serverless-architecture-19870153) & [repo](https://github.com/lynnlangit/serverless-architecture)
-- 🌟 100% update of my **`AWS Advanced Security`** course
-- 🌟 100% update of my **`GCP ML`** course
-- 🌟 100% update of my **`Azure Databricks`** course
+- 🌟 Published: updated **`Serverless Architecture`** course - [link](https://www.linkedin.com/learning/serverless-architecture-19870153) & [repo](https://github.com/lynnlangit/serverless-architecture)
+- Scheduled: 100% update of my **`AWS Advanced Security`** course
+- Scheduled: 100% update of my **`GCP ML`** course
+- Scheduled: 100% update of my **`Azure Databricks`** course
+- Scheduled: New course **`AWS DevOps Best Practices`**
+
+---
+
+### MOST VIEWED CONTENT
 
 #### GCP Topics
 - 📺 :octocat: **`GCP Essentials`** and **`GCP Enterprise`** courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
@@ -45,7 +52,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 ---
 
-### 100+ Cloud Courses, Articles
+### ALL CONTENT: 100+ Cloud Courses, Articles
 
 #### All Cloud Courses
 - 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
