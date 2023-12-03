@@ -44,7 +44,7 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 - 🧬 📺 :octocat: Frequently Updated **`GCP-for-Bioinformatics`** [FREE course on GitHub](https://github.com/lynnlangit/gcp-for-bioinformatics)
 
 #### Data, Machine Learning and More
-- 📚:octocat:📺 **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
+- 📚 :octocat: 📺 **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
 - 📺 :octocat:**`Learning SnowflakeDB`** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
 - 📺 :octocat: **`Cloud Quantum Computing`** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
