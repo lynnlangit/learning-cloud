@@ -57,7 +57,7 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 #### All Cloud Courses
 - 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
 - :octocat: my **example code** in Github repos (10+) - [link](https://github.com/lynnlangit)
-- 📖 my **system visualization** tools, talks and examples (list) - [link](https://github.com/lynnlangit/learning-cloud/tree/master/CLOUD-PATTERNS/1_Viz-Systems)
+- 📖 my **system visualization** tools, talks and examples (list) - [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/1_Viz-Systems)
 - 🧬 :octocat: my **course on bioinformatics for cloud** on GitHub (`TeamTeri`) - [link](https://github.com/lynnlangit/TeamTeri)
 
 #### Cloud Architectures, Patterns and Articles
