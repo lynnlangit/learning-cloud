@@ -18,11 +18,12 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 I built a custom GPT using my cloud body of work (12+ years of information).  
 
--  📺 My screencast series/YouTube playlist - "5+ min of my ChatGPT" - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
+-  📺 My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
     - Explores prompt engineering
     - Series of use cases
+    - 100% demos of ChatGPT, Bard and other GenAI tools - no PowerPoint!
 - 🧠 My custom GPT is trained on my own public cloud information and updated weekly.
-  - My custom GPT is named 'Cloud Architect Lynn'
+  - My custom GPT is named **`Cloud Architect Lynn`**
   - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
 
 
