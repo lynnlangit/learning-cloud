@@ -10,7 +10,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 ---
 
-<img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/1-main-gpt.png" width=300 align="right">
+
 
 ### FRESH CONTENT
 
