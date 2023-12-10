@@ -36,6 +36,7 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 - Scheduled: 100% update of my **`GCP ML`** course
 - Scheduled: 100% update of my **`Azure Databricks`** course
 - Scheduled: New course **`AWS DevOps Best Practices`**
+- Scheduled: New course **`Google Gemini`**
 
 ---
 
