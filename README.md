@@ -14,13 +14,16 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 ### FRESH CONTENT
 
-#### **NEW:** My Custom GPT: "Cloud Architect Lynn GPT"
+#### **NEW:** My Custom GPT: "Cloud Architect Lynn GPT" + Screencast Series
 
 I built a custom GPT using my cloud body of work (12+ years of information).  
 
 - 🧠 Custom GPT trained on my own public cloud information.
   - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
   - Screenshot to the right...
+-  📺 Screencast series - "5+ min of my ChatGPT" - YouTube Playlist - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
+    - Explores prompt engineering
+    - Series of use cases
 
 
   
