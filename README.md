@@ -11,8 +11,9 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 ---
 
 
-
 ### FRESH CONTENT
+
+<details><summary>Newest Cloud Content</summary>
 
 #### **NEW:** My Custom GPT: "Cloud Architect Lynn GPT" + Screencast Series
 
@@ -25,8 +26,6 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 - 🧠 My custom GPT is trained on my own public cloud information and updated weekly.
   - My custom GPT is named **`Cloud Architect Lynn`**
   - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
-
-
   
 
 #### NEWS for LinkedIn Learning Courses in 2023 / 2024
@@ -38,9 +37,13 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 - Scheduled: New course **`AWS DevOps Best Practices`**
 - Scheduled: New course **`Google Gemini`**
 
+</details>
+
 ---
 
 ### MOST VIEWED CONTENT
+
+<details><summary>Most viewed Cloud Content</summary>
 
 #### GCP Topics
 - 📺 :octocat: **`GCP Essentials`** and **`GCP Enterprise`** courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
@@ -55,9 +58,13 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 - 🧬 :octocat: In preview - **`aws-for-bioinformatics`** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
 
+</details>
+
 ---
 
 ### ALL CONTENT: 100+ Cloud Courses, Articles
+
+<details><summary>All Cloud Content</summary>
 
 #### All Cloud Courses
 - 📚 my **cloud courses** on LinkedIn Learning (30) - [link](https://www.linkedin.com/learning/instructors/lynn-langit)
@@ -76,6 +83,8 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 - 🗣️ my **screencasts/talks** on YouTube (50+) - cloud topics and more - [link](https://www.youtube.com/c/LynnLangit/playlists)
 - 🗄️ my **sample data** in GitHub repo (10+) kinds of sample data - [link](https://github.com/lynnlangit/sample-data)
 - 🗣️ my **slide decks** on Slides.com (many...) - [link](https://slides.com/lynnlangit)
+
+</details>
 
 ---
   
