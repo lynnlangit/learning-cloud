@@ -45,7 +45,7 @@
 ---
 
 - Q: **Whare are the most interesting/useful cloud data services by vendor?**
-  - A: Azure - CosmosDB
+  - A: Azure - CoPilot(s), CosmosDB
   - A: AWS - S3, EC2, AWS Braket (Quantum)
   - A: GCP - BigQuery, AutoML, DataProc (managed Apache Spark), Dataplex
   - A: IBM - Qiskit (Quantum)
