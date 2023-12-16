@@ -44,18 +44,19 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 <details><summary>Most viewed Cloud Content</summary>
 
 #### GCP Topics
+- 🧬 📺 :octocat: **`GCP-for-Bioinformatics`** [FREE course on GitHub](https://github.com/lynnlangit/gcp-for-bioinformatics) 
 - 📺 :octocat: **`Serverless Architecture`** course - [link](https://www.linkedin.com/learning/serverless-architecture-19870153) & [repo](https://github.com/lynnlangit/serverless-architecture)
 - 📺 :octocat: **`GCP Essentials`** and **`GCP Enterprise`** courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
 - 📺 :octocat: **`GCP Tools`** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
 - 📺 :octocat: **`GCP Cost Control`** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
-- 🧬 📺 :octocat: Frequently Updated **`GCP-for-Bioinformatics`** [FREE course on GitHub](https://github.com/lynnlangit/gcp-for-bioinformatics)
+
 
 #### Data, Machine Learning and More
-- 📚 :octocat: 📺 **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
 - 📺 :octocat:**`Learning SnowflakeDB`** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
 - 📺 :octocat: **`Cloud Quantum Computing`** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 - 🧬 :octocat: In preview - **`aws-for-bioinformatics`** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
+- 📚 :octocat: 📺 **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
 
 </details>
 
