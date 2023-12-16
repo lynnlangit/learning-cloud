@@ -8,10 +8,7 @@
 This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
 Links to artifacts are included for AWS, Azure, or GCP & more.  
 
----
-
-
-### FRESH CONTENT
+### FRESH CONTENT --> GenAI ++
 
 <details><summary>Newest Cloud Content</summary>
 
@@ -26,16 +23,17 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 - 🧠 My custom GPT is trained on my own public cloud information and updated weekly.
   - My custom GPT is named **`Cloud Architect Lynn`**
   - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
+- :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
   
+----
 
-#### NEWS for LinkedIn Learning Courses in 2023 / 2024
+#### NEWS for LinkedIn Learning Courses in 2024
 
-- 🌟 Published: updated **`Serverless Architecture`** course - [link](https://www.linkedin.com/learning/serverless-architecture-19870153) & [repo](https://github.com/lynnlangit/serverless-architecture)
-- Scheduled: 100% update of my **`AWS Advanced Security`** course
+- Recorded: 100% update of my **`AWS Advanced Security`** course - Q1 2024 publication
 - Scheduled: 100% update of my **`GCP ML`** course
 - Scheduled: 100% update of my **`Azure Databricks`** course
-- Scheduled: New course **`AWS DevOps Best Practices`**
-- Scheduled: New course **`Google Gemini`**
+- Scheduled: New course **`AWS DevOps Best Practices`** course
+- Planning: New course **`Google Gemini`** course
 
 </details>
 
@@ -46,6 +44,7 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 <details><summary>Most viewed Cloud Content</summary>
 
 #### GCP Topics
+- 📺 :octocat: **`Serverless Architecture`** course - [link](https://www.linkedin.com/learning/serverless-architecture-19870153) & [repo](https://github.com/lynnlangit/serverless-architecture)
 - 📺 :octocat: **`GCP Essentials`** and **`GCP Enterprise`** courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
 - 📺 :octocat: **`GCP Tools`** [course on LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated repo examples in `tools` folder at [link](https://github.com/lynnlangit/gcp-essentials/blob/master/1_storage/tools/README.md)
 - 📺 :octocat: **`GCP Cost Control`** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
