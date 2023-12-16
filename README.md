@@ -74,7 +74,7 @@ I built a custom GPT using my cloud body of work (12+ years of information).
 
 #### Cloud Architectures, Patterns and Articles
 - :octocat: My `CLOUD-PATTERNS` section to share best practice patterns and tools for cloud workloads - [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS)
-- 📺 :octocat: My `Serverless Architecture` companion repo to my course on LI_L - [link](https://github.com/lynnlangit/serverless-architecture)
+- 📺 :octocat: My `Serverless Architecture` companion repo to my course on LI_L - [link](https://www.linkedin.com/learning/serverless-architecture-19870153)
 - 📚 **`Lynn Langit's Cloud World`** [on Substack](https://lynnlangit.substack.com/)
 - 📖 my **technical articles** on Medium (40) - cloud topics - [link](https://medium.com/search?q=langit%20cloud)
 - 📖 my **micro-blogging** on Dev.to (many...) - [link](https://dev.to/lynnlangit)
