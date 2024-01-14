@@ -1,31 +1,15 @@
 # AWS Resources
 
-- My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20%2B%20lynn%20langi) - I've created a number of **series** of AWS courses (**18 courses!**):
-  - **AWS for Data Series**: 
-    - 📺 Machine Learning
-    - 📺 Data Analytics
-    - 📺 Data Services
-    - 📺 Data Security
-  - **AWS for DevOps Series**: 
-    - 📺 AWS Controlling Cost- [link](https://www.linkedin.com/learning/amazon-web-services-controlling-cost)
-    - 📺 Monitoring, Metrics & Logging
-    - 📺 High Availability & Elasticity
-    - 📺 Continuous Delivery & Process
-    - 📺 Security, Governance & Validation
-    - 📺 Amazon Workspaces
-  - **AWS Architects Series**:
-    - 📺 Advanced Security
-    - 📺 High Availability & Continuous Delivery
-    - 📺 Network & Storage Design; Design & Implement Systems
-  - **Big Data courses**:
-    - 📺 **Learning Hadoop and Spark** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark) - includes AWS content
-    - 📺 **Learning NoSQL** - [link](https://github.com/lynnlangit/learning-nosql) - includes AWS content
-  - **End-user Computing course**:
-    - 📺 **Learning Amazon Workspaces** - on LI_L at [link](https://www.linkedin.com/learning/amazon-workspaces-deploy-virtual-desktops-14472889)
+- 📺 My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20%2B%20lynn%20langit) - I've created a number of **series** of AWS courses (**18 courses!**):
+  - **AWS for Data Series**: Machine Learning, Data Analytics, Data Services, Data Security
+  - **AWS for DevOps Series**: AWS Controlling Cost- [link](https://www.linkedin.com/learning/amazon-web-services-controlling-cost) , Monitoring, Metrics & Logging, High Availability & Elasticity, Continuous Delivery & Process, Security, Governance & Validation, Amazon Workspaces
+  - **AWS Architects Series**: Advanced Security, High Availability & Continuous Delivery, Network & Storage Design; Design & Implement Systems
+  - **Big Data courses**: Learning Hadoop and Spark - [link](https://github.com/lynnlangit/learning-hadoop-and-spark), Learning NoSQL - [link](https://github.com/lynnlangit/learning-nosql) - includes AWS content
+  - **End-user Computing course**: Learning Amazon Workspaces - [link](https://www.linkedin.com/learning/amazon-workspaces-deploy-virtual-desktops-14472889)
     
 ## Other AWS Resource from Lynn 
 
-- :star: coming in late 2022 - new course **"aws-for-bioinformatics"** on platform TBA, there will be an associated GitHub repo as well.
+- :star: updating in 2024 - open source course **"aws-for-bioinformatics"** on YouTube/GitHub
 - :octocat: My example AWS GitHub Repos
   - **'hello-aws-data-services'** - [link](https://github.com/lynnlangit/Hello-AWS-Data-Services)
   - **'aws-cost-control'** - [link](https://github.com/lynnlangit/aws-cost-control)
