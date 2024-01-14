@@ -14,8 +14,6 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 #### ChatGPT / OpenAI
 
-I built a custom GPT `Cloud Architect Lynn` using my cloud body of work (12+ years of information).  
-
 -  📺 My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
     - Explores prompt engineering
     - Series of use cases
@@ -23,11 +21,11 @@ I built a custom GPT `Cloud Architect Lynn` using my cloud body of work (12+ yea
 - 🧠 My custom GPT is trained on my own public cloud information and updated weekly.
   - My custom GPT is named **`Cloud Architect Lynn`**
   - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
-- :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 
 #### Bard / Google Gemini
 
 - :octocat: Notes on Google Gemini - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM)
+- :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
   
 ----
 
