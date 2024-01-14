@@ -27,7 +27,7 @@ I built a custom GPT `Cloud Architect Lynn` using my cloud body of work (12+ yea
 
 #### Bard / Google Gemini
 
-- :octocat: Notes on Google Gemini - [link](xxx)
+- :octocat: Notes on Google Gemini - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM)
   
 ----
 
