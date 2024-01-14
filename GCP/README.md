@@ -3,14 +3,11 @@
 I have created a number of courses for GCP.  Many are on Linked In Learning with associated Repos on GitHub.     
 NOTE: A couple of these courses are fully open source (on GitHub and YouTube).
 
-![GCP](https://github.com/lynnlangit/learning-cloud/blob/master/images/gcp-locations.png)
-
-
 ## Courses
 
 - My GCP Courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=gcp%20langit) to all GCP courses
-  - **🌟 UPDATED in 2023** 📺 **'GCP Essentials'** - this is the first course to take in this series - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-for-administrators-22141609)
-  - **🌟 UPDATED in 2023** 📺 **'GCP Enterprise Essentials'** - take this course if you are an enterprise cloud professionals - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training-22140980)
+  - 📺 **'GCP Essentials'** - this is the first course to take in this series - [link](https://www.linkedin.com/learning/google-cloud-platform-essential-training-for-administrators-22141609)
+  - 📺 **'GCP Enterprise Essentials'** - take this course if you are an enterprise cloud professionals - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training-22140980)
   - 📺 **'GCP Tools'** course on [LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated Repo folder in `tools` section at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/tools) 
   - 📺 **'GCP Cost Control'** course on [LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), and associated Repo page at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
   - 📺 **'GCP Machine Learning'** - this course covers machine learning on GCP
