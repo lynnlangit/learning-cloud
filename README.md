@@ -12,9 +12,9 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 <details><summary>Newest Cloud Content</summary>
 
-#### **NEW:** My Custom GPT: "Cloud Architect Lynn GPT" + Screencast Series
+#### ChatGPT / OpenAI
 
-I built a custom GPT using my cloud body of work (12+ years of information).  
+I built a custom GPT `Cloud Architect Lynn` using my cloud body of work (12+ years of information).  
 
 -  📺 My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
     - Explores prompt engineering
@@ -24,16 +24,21 @@ I built a custom GPT using my cloud body of work (12+ years of information).
   - My custom GPT is named **`Cloud Architect Lynn`**
   - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
+
+#### Bard / Google Gemini
+
+- :octocat: Notes on Google Gemini - [link](xxx)
   
 ----
 
 #### NEWS for LinkedIn Learning Courses in 2024
 
-- Recorded: 100% update of my **`AWS Advanced Security`** course - Q1 2024 publication
-- Scheduled: 100% update of my **`GCP ML`** course
-- Scheduled: 100% update of my **`Azure Databricks`** course
+- Recorded: 100% update of my **`GCP ML`** course
+- Recorded: New course **`Google Gemini`** course
+- Scheduled: 100% update of my **`AWS Advanced Security`** course - Q1 2024 publication
 - Scheduled: New course **`AWS DevOps Best Practices`** course
-- Planning: New course **`Google Gemini`** course
+- Scheduled: 100% update of my **`Azure Databricks`** course
+
 
 </details>
 
