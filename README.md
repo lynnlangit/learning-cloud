@@ -8,7 +8,7 @@
 This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
 Links to artifacts are included for AWS, Azure, or GCP & more.  
 
-### FRESH CONTENT --> GenAI ++
+### FRESH CONTENT --> GenAI and more
 
 <details><summary>Newest Cloud Content</summary>
 
@@ -26,6 +26,10 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 - :octocat: Notes on **`Google Gemini Pro/Vision`** - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM)
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
+
+#### AWS Core Skills
+- New course (will publish summer 2024) on LIL `AWS DevOps Best Practices` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/Best-Practices)
+- New course (will publish summer 2024) on LIL `AWS Security Patterns` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/SecOps)
   
 ----
 
