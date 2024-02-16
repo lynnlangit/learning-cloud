@@ -24,7 +24,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 #### Bard / Google Gemini
 
-- :octocat: Notes on **`Google Gemini Pro/Vision`** - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM)
+- :octocat: Notes on **`Google Gemini Pro/Vision`** - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/introduction-to-google-gemini)
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 
 #### AWS Core Skills
