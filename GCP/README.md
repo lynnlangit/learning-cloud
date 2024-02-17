@@ -10,6 +10,7 @@ NOTE: A couple of these courses are fully open source (on GitHub and YouTube).
   - 📺 **'GCP Enterprise Essentials'** - take this course if you are an enterprise cloud professionals - [link](https://www.linkedin.com/learning/google-cloud-platform-for-enterprise-essential-training-22140980)
   - 📺 **'GCP Tools'** course on [LI_L](https://www.linkedin.com/learning/learning-google-cloud-developer-and-devops-tools) & associated Repo folder in `tools` section at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/tools) 
   - 📺 **'GCP Cost Control'** course on [LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), and associated Repo page at -  [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control)
+  - 📺 **'Google Gemini'** - this course introduces the Google Gemini Pro LLM on [LI_L}(https://www.linkedin.com/learning/introduction-to-google-gemini)
   - 📺 **'GCP Machine Learning'** - this course covers machine learning on GCP
 - My Apache Hadoop/Spark and NoSQL courses on LinkedIn Learning (includes lots of GCP info)- [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=hadoop%20spark%20langit)
   - 📺 **'Learning Hadoop'** - this is the first course to take in this series 
@@ -20,7 +21,7 @@ NOTE: A couple of these courses are fully open source (on GitHub and YouTube).
 
 - My example GCP Repos and associated Courses
   - :octocat: **'gcp-essentials'** - [link](https://github.com/lynnlangit/gcp-essentials) - companion to my LI_L 'GCP Essentials' course
-  - :octocat: **'gcp-ml'** - [link](https://github.com/lynnlangit/gcp-ml) - compantion to my my LI_L 'GCP ML' course
+  - :octocat: **'gcp-ml'** - [link](https://github.com/lynnlangit/gcp-ml) - compantion to my my LI_L 'GCP ML' and my 'Google Gemini' courses
   - :octocat: **'learning-hadoop-and-spark'** - [link](https://github.com/lynnlangit/learning-hadoop-and-spark) - companion to my LI_L 'Learning Hadoop' course
   - :octocat: **'learning-nosql'** - [link](https://github.com/lynnlangit/learning-nosql) - compantion to my LI_L 'NoSQL' course
   - :octocat: **'gcp-for-bioinformatics'** - [link](https://github.com/lynnlangit/gcp-for-bioinformatics) - includes YouTube screencast demo playlist - FREE COURSE! 
