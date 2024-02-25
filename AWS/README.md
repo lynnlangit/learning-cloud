@@ -13,7 +13,7 @@
 
 My AWS notes/links/sample code in GitHub Repos and other writings and screencasts (on YouTube)  
 
-- :star: updating in 2024 - open source course **"aws-for-bioinformatics"** on YouTube/GitHub
+- :star: updating in 2024 - open source course **"aws-for-bioinformatics"** on YouTube/GitHub - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
 - :octocat: My example AWS GitHub Repos
   - **'hello-aws-data-services'** - [link](https://github.com/lynnlangit/Hello-AWS-Data-Services)
   - **'aws-cost-control'** - [link](https://github.com/lynnlangit/aws-cost-control)
