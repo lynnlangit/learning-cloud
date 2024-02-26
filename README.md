@@ -22,9 +22,10 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
   - My custom GPT is named **`Cloud Architect Lynn`**
   - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
 
-#### Bard / Google Gemini
+#### AI/ML --> Google Gemini and more
 
 - :octocat: Notes on **`Google Gemini Pro/Vision`** - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/introduction-to-google-gemini)
+- :octocat: And course **`GCP ML`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML) - [link to course](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382)
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 
 #### AWS Core Skills
@@ -35,8 +36,8 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 #### NEWS for LinkedIn Learning Courses in 2024
 
-- Recorded: 100% update of my **`GCP ML`** course
-- Recorded: New course **`Google Gemini`** course
+- Released: 100% update of my **`GCP ML`** [course](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML)
+- Recorded: New course **`Google Gemini`** [course](https://www.linkedin.com/learning/introduction-to-google-gemini)
 - Scheduled: 100% update of my **`AWS Advanced Security`** course - Q1 2024 publication
 - Scheduled: New course **`AWS DevOps Best Practices`** course
 - Scheduled: 100% update of my **`Azure Databricks`** course
