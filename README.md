@@ -14,33 +14,33 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 #### ChatGPT / OpenAI
 
--  📺 My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/chat-gpt.png" width=20>  My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
     - Explores prompt engineering
     - Series of use cases
     - 100% demos of ChatGPT, Bard and other GenAI tools - no PowerPoint!
-- 🧠 My custom GPT is trained on my own public cloud information and updated weekly.
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/chat-gpt.png" width=20>  My custom GPT is trained on my own public cloud information and updated weekly.
   - My custom GPT is named **`Cloud Architect Lynn`**
   - Requires a ChatGPT monthly subscription ($ 20/m) to use - [link](https://chat.openai.com/g/g-P47QZV1Uw-cloud-architect-lynn)
 
 #### AI/ML --> Google Gemini and more
 
-- :octocat: Notes on **`Google Gemini Pro/Vision`** - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/introduction-to-google-gemini)
-- :octocat: And course **`GCP ML`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML) - [link to course](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382)
-- :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=30> Notes on **`Google Gemini Pro/Vision`** - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/introduction-to-google-gemini)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=30> Course **`GCP ML`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML) - [link to course](https://www.linkedin.com/learning/google-cloud-platform-for-machine-learning-essential-training-23457382)
+- :octocat:  Notes on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 
 #### AWS Core Skills
-- New course (will publish summer 2024) on LIL `AWS DevOps Best Practices` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/Best-Practices)
-- New course (will publish summer 2024) on LIL `AWS Security Patterns` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/SecOps)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> New course (will publish summer 2024) on LIL `AWS DevOps Best Practices` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/Best-Practices)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> New course (will publish summer 2024) on LIL `AWS Security Patterns` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/SecOps)
   
 ----
 
 #### NEWS for LinkedIn Learning Courses in 2024
 
-- Released: 100% update of my **`GCP ML`** [course](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML)
-- Recorded: New course **`Google Gemini`** [course](https://www.linkedin.com/learning/introduction-to-google-gemini)
-- Scheduled: 100% update of my **`AWS Advanced Security`** course - Q1 2024 publication
-- Scheduled: New course **`AWS DevOps Best Practices`** course
-- Scheduled: 100% update of my **`Azure Databricks`** course
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=30> Released: 100% update of my **`GCP ML`** [course](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=30> Released: New course **`Google Gemini`** [course](https://www.linkedin.com/learning/introduction-to-google-gemini)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> Scheduled: 100% update of my **`AWS Advanced Security`** course - Q1 2024 publication
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> Scheduled: New course **`AWS DevOps Best Practices`** course
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/azure.png" width=20> Scheduled: 100% update of my **`Azure Databricks`** course
 
 
 </details>
