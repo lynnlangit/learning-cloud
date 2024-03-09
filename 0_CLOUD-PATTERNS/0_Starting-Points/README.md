@@ -20,7 +20,7 @@
 ---
 
 - Q: **Which service(s)?**
-  - A: Core services are VMs, file storage and security (AWS: EC2, S3, IAM....)
+  - A: Core services are VMs, file storage (buckets) and security (AWS: EC2, S3, IAM....)
 ---
 
 - Q: **How to get a job?**
@@ -30,6 +30,7 @@
 - Q: **How do I avoid a surprise, big cloud bill when learning?**
   - A: Set a budget alert and notification
   - A: Turn off VMs when not using
+  - A: Use smallest sized VMs/GPUs as is practical for testing
 ---
 
 - Q: **What are some 'overlooked' areas?**
@@ -37,7 +38,7 @@
 ---
 
 - Q: **Can I do ML on the cloud?**
-  - A: Yes, use Jupyter Notebook instances (AWS SageMaker | GCP Notebook VMs)
+  - A: Yes, use Jupyter Notebook instances (AWS SageMaker | GCP VertexAI)
 ---
 
 - Q: **Which certifications get me the highest paying jobs?**
