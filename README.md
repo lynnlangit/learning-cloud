@@ -1,5 +1,6 @@
 # Learning Cloud
 
+⭐⭐⭐ Next week - **SURPRISE new course** - watch this space for update/link ⭐⭐⭐
 
 ---
 
