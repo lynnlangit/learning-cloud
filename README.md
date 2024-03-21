@@ -1,6 +1,6 @@
 # Learning Cloud
 
-⭐⭐⭐ Next week - **SURPRISE new course** - watch this space for update/link ⭐⭐⭐
+⭐⭐⭐ - **NEW course** - [Insights on Cloud Computing](https://www.linkedin.com/learning/insights-on-cloud-computing-with-lynn-langit) ⭐⭐⭐
 
 ---
 
