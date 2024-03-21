@@ -1,5 +1,7 @@
 # Learning Cloud
 
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/learning-cloud.png" width=600>
+
 ⭐⭐⭐ - **NEW course** - [Insights on Cloud Computing](https://www.linkedin.com/learning/insights-on-cloud-computing-with-lynn-langit) ⭐⭐⭐
 
 ---
