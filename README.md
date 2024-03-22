@@ -32,8 +32,8 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 - :octocat:  Notes on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
 
 #### AWS Core Skills
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> New course (will publish summer 2024) on LIL `AWS DevOps Best Practices` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/Best-Practices)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> New course (will publish summer 2024) on LIL `AWS Security Patterns` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/SecOps)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> New course on LIL `AWS DevOps Best Practices`at [link](https://www.linkedin.com/learning/aws-devops-best-practices-for-beginners) and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/Best-Practices)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> New course (will publish Spring 2024) on LIL `AWS Security Patterns` and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/SecOps)
   
 ----
 
