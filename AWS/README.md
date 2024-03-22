@@ -3,6 +3,7 @@
 ## My Courses on LinkedIn Learning
 
 📺 My AWS courses on LinkedIn Learning - [link](https://www.linkedin.com/learning/search?entityType=COURSE&keywords=aws%20%2B%20lynn%20langit) - **18 courses!**:
+  - **AWS for DevOps for Beginners** - best practices, core concepts by example - [link](https://www.linkedin.com/learning/aws-devops-best-practices-for-beginners)
   - **AWS for Data Series**: Machine Learning, Data Analytics, Data Services, Data Security
   - **AWS for DevOps Series**: AWS Controlling Cost- [link](https://www.linkedin.com/learning/amazon-web-services-controlling-cost) , Monitoring, Metrics & Logging, High Availability & Elasticity, Continuous Delivery & Process, Security, Governance & Validation, Amazon Workspaces
   - **AWS Architects Series**: Advanced Security, High Availability & Continuous Delivery, Network & Storage Design; Design & Implement Systems
