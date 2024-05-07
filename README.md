@@ -37,10 +37,10 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
   
 ----
 
-#### NEWS for LinkedIn Learning Courses in 2024
+#### NEWS about my LinkedIn Learning Courses in 2024
 
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=30> Released: 100% update of my **`GCP ML`** [course](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=30> Released: New course **`Google Gemini`** [course](https://www.linkedin.com/learning/introduction-to-google-gemini)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=30> Released: New course **`Google Gemini for Developers`** [course](https://www.linkedin.com/learning/google-gemini-for-developers-24018542)
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> Scheduled: 100% update of my **`AWS Advanced Security`** course - Q1 2024 publication
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> Scheduled: New course **`AWS DevOps Best Practices`** course
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/azure.png" width=20> Scheduled: 100% update of my **`Azure Databricks`** course
