@@ -2,7 +2,7 @@
 
 ### Core Cloud
 
-<img src="https://miro.medium.com/max/1100/1*qXdSJxH7DtetjDlGQRyFgA.png" width=800>
+<kbd><img src="https://miro.medium.com/max/1100/1*qXdSJxH7DtetjDlGQRyFgA.png" width=800></kbd>
 
 Core Cloud Patterns and design considerations, summarized below with a checklist, article and talk.  
 
