@@ -27,8 +27,8 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 #### NEWS about my additional LinkedIn Learning Courses for 2024
 
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=20> Released: 100% update of my **`GCP ML`** [course](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML) and  [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> Released: 100% update of my **`AWS Advanced Security`** [course](https://www.linkedin.com/learning/aws-advanced-security-management-patterns-and-practices?u=2125562) at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/SecOps)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> Released: New course **`AWS DevOps Best Practices`** [course](https://www.linkedin.com/learning/aws-devops-best-practices-for-beginners?u=2125562) and associated Repo at [link](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/Best-Practices)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> Released: 100% update of my **`AWS Advanced Security`** [course](https://www.linkedin.com/learning/aws-advanced-security-management-patterns-and-practices?u=2125562) at [link to repo](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/SecOps)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=20> Released: New course **`AWS DevOps Best Practices`** [course](https://www.linkedin.com/learning/aws-devops-best-practices-for-beginners?u=2125562) and [link to repo](https://github.com/lynnlangit/Hello-AWS-Data-Services/tree/master/6_DevOps/Best-Practices)
 
 
 </details>
