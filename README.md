@@ -17,9 +17,9 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 #### GenAI
 
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/chat-gpt.png" width=20>  My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Released: **`Google Gemini for Developers`** - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/google-gemini-for-developers-24018542) on LinkedIn Learning
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Recorded: **`Google Gemini for Developers`** - [link](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and course 'comming soon' on LinkedIn Learning
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/chat-gpt.png" width=20>  My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link to playlist](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Released: **`Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/google-gemini-for-developers-24018542) on LinkedIn Learning
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Recorded: **`Advanced Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/ADV-LLM-Dev.md) and course 'coming soon' on LinkedIn Learning
 - <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20> Scheduled: New course **`Databricks GenAI`** course
   
 ----
