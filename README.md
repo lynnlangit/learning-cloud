@@ -1,6 +1,8 @@
 # Learning Cloud
 
-⭐⭐⭐ - **NEW course** - [Insights on Cloud Computing](https://www.linkedin.com/learning/insights-on-cloud-computing-with-lynn-langit) ⭐⭐⭐
+This is the `top level` (or index) Repo to... 
+- my many Azure, AWS or GCP learning resources
+- on Github, LinkedIn Learning, YouTube, Dev.to and Medium 
 
 ---
 
@@ -84,4 +86,5 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
   
 ## But, wait, "how do I get started in cloud?"
 
-If you are completely **new to cloud**, you might want to go here first --> [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/0_Starting-Points)
+If you are completely **new to cloud**, you might want to go here first --> [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/0_Starting-Points)  
+Also see my ⭐⭐⭐ - **NEW course** - [Insights on Cloud Computing](https://www.linkedin.com/learning/insights-on-cloud-computing-with-lynn-langit) ⭐⭐⭐
