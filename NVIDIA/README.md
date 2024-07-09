@@ -1,6 +1,6 @@
 # NVIDIA Cloud Resources
 
-I am currently exploring **quantum computing** using NVIDIA cloud resources.  NVIDIA Cloud includes a number of types of services, summarized and shown below.
+I am currently exploring **quantum computing** using NVIDIA cloud resources.  NVIDIA Cloud includes a number of types of services, summarized and shown below.  Also see this page --> https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors/NVIDIA%20CUDA-Q
 
 # About Nvidia CUDA-Q
 
