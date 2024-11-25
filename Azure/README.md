@@ -1,7 +1,5 @@
 # Azure Resources
 
-![Azure](https://github.com/lynnlangit/learning-cloud/blob/master/images/azure-locations.png)
-
 - 📺 My course **'Azure Databricks'** (3 hours) - [link](https://www.linkedin.com/learning/azure-spark-databricks-essential-training).  Learning Objectives:
   - Business scenarios for Apache Spark
   - Setting up a cluster
