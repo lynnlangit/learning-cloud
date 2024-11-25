@@ -4,7 +4,7 @@ I am currently exploring **quantum computing** using IBM cloud resources.  IBM C
 
 
 - :octocat: My Repo 'learning-quantum' has links and other resources - [link](https://github.com/lynnlangit/learning-quantum)
-- IBM Qiskit Cloud Quantum Developer certification - [link](https://www.ibm.com/training/certification/ibm-certified-associate-developer-quantum-computation-using-qiskit-v02x-C0010300)
+- 🗞️ IBM Qiskit Cloud Quantum Developer certification - [link](https://www.ibm.com/training/certification/ibm-certified-associate-developer-quantum-computation-using-qiskit-v02x-C0010300)
 
 <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/ibm-cloud.png" width=600>
   ---
