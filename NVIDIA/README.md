@@ -2,6 +2,8 @@
 
 I am currently exploring **quantum computing** using NVIDIA cloud resources.  NVIDIA Cloud includes a number of types of services, summarized and shown below.  Also see [my other GitHub repo](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors/NVIDIA%20CUDA-Q).
 
+NVIDIA recently started offering GenAI (and other) types of technical certifications --> [link](https://www.nvidia.com/en-us/learn/certification/)
+
 ## About Nvidia CUDA-Q
 
 From Nvidia's site --> https://nvidia.github.io/cuda-quantum/latest/using/quick_start.html
