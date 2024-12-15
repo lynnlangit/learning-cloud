@@ -1,5 +1,14 @@
 # Learning Cloud
 
+**NEW** - What's planned for 2025 in my Linked In Learning Courses
+- New course **'Databricks Gen AI'**
+- Full refresh **'Cloud Careers and Certifications'**
+- 4+ updates lites - adding new bits of content to existing courses
+- Full refresh **'Google Gemini v 2.0'**
+- Updating **'Cloud Quantum Computing'**
+
+----------
+
 This is the `top level` (or index) Repo to... 
 - my many Azure, AWS or GCP learning resources
 - on Github, LinkedIn Learning, YouTube, Dev.to and Medium 
