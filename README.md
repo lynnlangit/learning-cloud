@@ -7,12 +7,6 @@
 - Full refresh **'Google Gemini v 2.0'**
 - Updating **'Cloud Quantum Computing'**
 
-----------
-
-This is the `top level` (or index) Repo to... 
-- my many Azure, AWS or GCP learning resources
-- on Github, LinkedIn Learning, YouTube, Dev.to and Medium 
-
 ---
 
 ## What is Here
