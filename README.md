@@ -1,10 +1,9 @@
 # Learning Cloud
 
-**NEW** - What's planned for 2025 in my Linked In Learning Courses
-- <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20> New course **'Databricks Gen AI'**
--  ⭐ Full refresh **'Cloud Careers and Certifications'**
--  ⭐ 4+ updates lites - adding new bits of content to existing courses
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Full refresh **'Google Gemini v 2.0'**
+**NEW** - What's schedule for 2025 in my Linked In Learning Courses
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Full update - both courses **'Google Gemini v 2.0 for Devs (Beg & Adv)'**
+- <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20>  New course **'Databricks Gen AI'**
+-  ⭐ Full refresh - including GenAI content! **'Cloud Careers and Certifications'**
 -  ⭐ Updating **'Cloud Quantum Computing'**
 
 ---
