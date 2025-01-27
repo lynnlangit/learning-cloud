@@ -13,9 +13,9 @@
 This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
 Links to artifacts are included for AWS, Azure, or GCP & more.  
 
-### FRESH CONTENT --> GenAI and more
+### MOST VIEWED CONTENT
 
-<details><summary>Newest Cloud Content</summary>
+<details><summary>Most viewed Cloud & GenAI Content</summary>
 
 #### GenAI
 
@@ -23,13 +23,6 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Released: **`Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/google-gemini-for-developers-24018542) on LinkedIn Learning
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Recorded: **`Advanced Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/ADV-LLM-Dev.md) and [course](https://www.linkedin.com/learning/advanced-gemini-for-developers) on LinkedIn Learning
   
-</details>
-
----
-
-### MOST VIEWED CONTENT
-
-<details><summary>Most viewed Cloud Content</summary>
 
 #### GCP Topics
 - 🧬 📺 :octocat: **`GCP-for-Bioinformatics`** [FREE course on GitHub](https://github.com/lynnlangit/gcp-for-bioinformatics) 
