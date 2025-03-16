@@ -2,6 +2,8 @@
 
 Concept: Use cloud tasks as a basis for testing quality of output of GenAI tool prompts. 
 
+<img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/prompt-kata-group.png" width=800>
+
 ## Concepts / Test Kata Problems
 - derive from tool testing
 - derive from problem/tasks
