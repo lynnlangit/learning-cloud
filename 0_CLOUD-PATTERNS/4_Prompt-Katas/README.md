@@ -11,11 +11,11 @@ Concept: Use cloud tasks as a basis for testing quality of output of GenAI tool 
 
 ### GenAI / LLM Exploration Concepts
 Katas for practice/play/learning w/Prompts as 'code'
-- Iteration on langauge as 'params'
-- Attention to tool-based primpt guidance/autoamated re-writing
-- Big (general purpose) / small (domain-specific) comparisons
-- Tool vs API calls
-- Improvements via examining output from 'thinking' models
+- Iteration on exact prompt langauge as 'params'
+- Attention to tool-based prompt guidance/automated prompt re-writing
+- Big (general purpose) / small (domain-specific) LLM comparisons
+- Tool (GUI) vs API calls
+- Improvements via examining output from 'thinking' LLM models
 
 ### Validation 
 - HITL - domain expertise as validation
@@ -24,7 +24,7 @@ Katas for practice/play/learning w/Prompts as 'code'
     - different models within tool
     - different tools
 - Automated
-    - methods of validation
+    - methods of automated, quantified output quality validation
 
 ## List of Candidate GenAI Tools
 
@@ -35,13 +35,16 @@ Katas for practice/play/learning w/Prompts as 'code'
 
 ### Domain-specific 
 - Code: GitHub CoPilot
+- Code: Repl.it
 - Cloud: GCP Gemini
 - Cloud: Amazon Q
-- Images: Imagen3
-- Medical Images: BioMedCLIP
-- Video: Google Veo2
+- Images: Google Imagen3
 
-### New
+- Medical Images: BioMedCLIP (open source foundational LLM)
+- Video: Google Veo2
+- Data: Databricks Genie, DBRX
+
+### New Search Engines
 - Perplexity (multiple models)
 
 ### Ethical 'no's
