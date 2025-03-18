@@ -34,7 +34,7 @@ Katas for practice/play/learning w/Prompts as 'code'
 - Claude / Anthropic
 
 ### Domain-specific 
-- Code: GitHub CoPilot
+- Code: GitHub CoPilot & Copilot Repositories
 - Code: Repl.it
 - Cloud: GCP Gemini
 - Cloud: Amazon Q
