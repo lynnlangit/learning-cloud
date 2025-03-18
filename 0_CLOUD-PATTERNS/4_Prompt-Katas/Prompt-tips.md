@@ -25,3 +25,8 @@
 - 'Trial' RAG via huge context windows (Gemini 2M tokens)
 - Provide URLs -or- directly upload PDFs
 
+# For Specific LLMs
+
+## Google Gemini API
+- Prompt Guidance --> https://ai.google.dev/gemini-api/docs/prompting-strategies
+
