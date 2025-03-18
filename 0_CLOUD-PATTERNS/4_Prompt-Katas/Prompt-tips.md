@@ -30,3 +30,6 @@
 ## Google Gemini API
 - Prompt Guidance --> https://ai.google.dev/gemini-api/docs/prompting-strategies
 
+## Google Imagen 
+- Prompt Guidance --> https://ai.google.dev/gemini-api/docs/imagen-prompt-guide
+
