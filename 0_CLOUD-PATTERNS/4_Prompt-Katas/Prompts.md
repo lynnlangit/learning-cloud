@@ -13,6 +13,7 @@ Problems/ tools / prompts
     5. Try different model params: reduce Temperature, add grounding with Google search
     6. Try different tools within Google ecosystem, try Claude, try Perplexity
     7. If time, switch back to my account and show GitHub Copilot Workspaces
+    8. RESEARCH prompt: *Show me the 5 most important papers that contributed to application container technology standards, i.e. singularity, docker. Provide citations*
 
 ## Backlog / Ideas
 
