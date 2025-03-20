@@ -4,7 +4,8 @@ Problems/ tools / prompts
 
 ## Date
 
-Store them here
+### For March 20, 2025
+- Problem/Task(s): Slurm-to-Batch/Singularity(Apptainer) to Docker
 
 ## Backlog / Ideas
 
