@@ -6,9 +6,9 @@ Problems/ tools / prompts
 
 ### For March 20, 2025
 - Problem/Task(s): **Slurm-to-Batch/Singularity(Apptainer) to Docker**
-    1. Backgrounder: You are an expert in application container architecture and implementation.  Generate 5 key steps to translate existing Singularity container to Docker containers to be run on Google Cloud using the Google Batch service. Produce the output in a table.
-    2. Add context: You are a Cloud Architect who specializes in designing and building proof of concept architectures which include best practices for Google Cloud.
-    3. Add transparency: <Add to prompt> Work step-by-step and show your work.  Cite URL references.  Rank output steps in priority order.
+    1. Backgrounder: *You are an expert in application container architecture and implementation.  Generate 5 key steps to translate existing Singularity container to Docker containers to be run on Google Cloud using the Google Batch service. Produce the output in a table.*
+    2. Add context: *You are a Cloud Architect who specializes in designing and building proof of concept architectures which include best practices for Google Cloud.*
+    3. Add transparency: <Add to prompt> *Work step-by-step and show your work.  Cite URL references.  Rank output steps in priority order.*
     4. Try different models: Try with experiemental and thinking models
     5. Try different model params: reduce Temperature, add grounding with Google search
     6. Try different tools within Google ecosystem, try Claude, try Perplexity
