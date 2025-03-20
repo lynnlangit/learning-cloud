@@ -27,6 +27,9 @@
 
 # For Specific LLMs
 
+## Gemini for Google Cloud
+- Prompt Guidance --> https://cloud.google.com/gemini/docs/discover/write-prompts
+
 ## Google Gemini API
 - Prompt Guidance --> https://ai.google.dev/gemini-api/docs/prompting-strategies
 
