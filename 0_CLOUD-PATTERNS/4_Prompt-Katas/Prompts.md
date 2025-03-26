@@ -4,6 +4,13 @@ Problems/ tools / prompts
 
 ## Date
 
+### March 25, 2025
+- Problem / Task: **Test the impact of politeness**
+- Test prompt: "Prompt: You are an expert in creating effective prompts for <LLM>. Do these tasks one at a time.    
+Do not skip steps. The first task is to explain the impact of including 'polite words' such as 'please' and 'thank you' in prompts.  Return the results in a list.    
+The second task is to provide an two contrastive examples of a complex prompt and generated results: one includes "polite words" and the other does not.  Return the results in a list as well.
+- Tested with Google Gemini, ChatGPT and Claude.ai - most significant impact noted in Claude.ai output.
+
 ### For March 20, 2025
 - Problem/Task(s): **Slurm-to-Batch/Singularity(Apptainer) to Docker**
     1. Backgrounder: *You are an expert in application container architecture and implementation.  Generate 5 key steps to translate existing Singularity container to Docker containers to be run on Google Cloud using the Google Batch service. Produce the output in a table.*
