@@ -1,6 +1,6 @@
 # Learning Cloud
 
-**NEW** - What's schedule for 2025 in my Linked In Learning Courses
+**NEW** - What's scheduled for 2025 for my Linked In Learning Courses
 
 -  <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Full update - both courses **'Google Gemini v 2.x for Devs (Beg & Adv)'**
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google Agenspaces'**
