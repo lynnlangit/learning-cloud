@@ -1,10 +1,12 @@
 # Learning Cloud
 
 **NEW** - What's schedule for 2025 in my Linked In Learning Courses
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Full update - both courses **'Google Gemini v 2.x for Devs (Beg & Adv)'**
-- <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20>  New course [**'Learn Databricks Gen AI'**](https://www.linkedin.com/learning/learn-databricks-genai)
+
+-  <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Full update - both courses **'Google Gemini v 2.x for Devs (Beg & Adv)'**
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google Agenspaces'**
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google VEO2'**
+- <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20>   New course [**'Learn Databricks Gen AI'**](https://www.linkedin.com/learning/learn-databricks-genai)
 -  ⭐ Updated - including GenAI content! [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
--  ⭐ Updating **'Cloud Quantum Computing'**
 
 ---
 
