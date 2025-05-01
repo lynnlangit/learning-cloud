@@ -1,6 +1,6 @@
 # Learning Cloud
 
-## New
+## NEW
 
 <details><summary>What's scheduled for 2025 for my Linked In Learning Courses</summary>
 
@@ -9,8 +9,7 @@
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google VEO2'**
 - <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20>   New course [**'Learn Databricks Gen AI'**](https://www.linkedin.com/learning/learn-databricks-genai)
 -  ⭐ Updated - including GenAI content! [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
-
----
+</details>
 
 ## What is Here
 
@@ -73,7 +72,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 ---
   
-## But, wait, "how do I get started in cloud?"
+### But, wait, "how do I get started in cloud?"
 
 If you are completely **new to cloud**, you might want to go here first --> [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/0_Starting-Points)  
 Also see my ⭐⭐⭐ - **FAQ course** - [Insights on Cloud Computing](https://www.linkedin.com/learning/insights-on-cloud-computing-with-lynn-langit) ⭐⭐⭐
