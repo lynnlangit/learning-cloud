@@ -4,9 +4,9 @@
 
 <details><summary>What's scheduled for 2025 for my Linked In Learning Courses</summary>
 
--  <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Full update - both courses **'Google Gemini v 2.x for Devs (Beg & Adv)'**
+-  <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> PUBLISHED - Full update - both courses **'Google Gemini v 2.x for Devs (Beg & Adv)'**
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google Agenspaces'**
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google VEO2'**
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google VEO3'**
 - <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20>   New course [**'Learn Databricks Gen AI'**](https://www.linkedin.com/learning/learn-databricks-genai)
 -  ⭐ Updated - including GenAI content! [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
 </details>
@@ -23,7 +23,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 #### GenAI
 
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/chat-gpt.png" width=20>  My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link to playlist](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Released: **`Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/google-gemini-for-developers-24018542) on LinkedIn Learning
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Released: **`Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/google-gemini-for-developers-25832309) on LinkedIn Learning
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Recorded: **`Advanced Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/ADV-LLM-Dev.md) and [course](https://www.linkedin.com/learning/advanced-gemini-for-developers) on LinkedIn Learning
   
 
