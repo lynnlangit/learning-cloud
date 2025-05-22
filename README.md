@@ -2,7 +2,7 @@
 
 ## NEW
 
-<details><summary>What's scheduled for 2025 for my Linked In Learning Courses</summary>
+<details><summary>2025 activities for my Linked In Learning Courses</summary>
 
 -  <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> PUBLISHED - Full update - both courses [**'Google Gemini v 2.x for Devs (Beg & Adv)'**](https://www.linkedin.com/learning/google-gemini-for-developers-25832309)
 - <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20>   PUBLISHED - New course [**'Learn Databricks Gen AI'**](https://www.linkedin.com/learning/learn-databricks-genai)
