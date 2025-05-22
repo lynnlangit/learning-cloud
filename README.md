@@ -5,10 +5,12 @@
 <details><summary>What's scheduled for 2025 for my Linked In Learning Courses</summary>
 
 -  <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> PUBLISHED - Full update - both courses [**'Google Gemini v 2.x for Devs (Beg & Adv)'**](https://www.linkedin.com/learning/google-gemini-for-developers-25832309)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google Agenspaces'**
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google VEO3'**
 - <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20>   PUBLISHED - New course [**'Learn Databricks Gen AI'**](https://www.linkedin.com/learning/learn-databricks-genai)
 -  ⭐ PUBLISHED - Updated - including GenAI content! [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
+
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google Agenspaces'**
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google VEO3'**
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25> Scheduled / New course **'AWS GenAI DevOps'**
 </details>
 
 ## What is Here
