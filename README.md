@@ -1,6 +1,11 @@
 # Learning Cloud
 
-## NEW
+## What's in this Repo
+
+This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
+Links to artifacts are included for AWS, Azure, or GCP & more.  
+
+## What's NEW
 
 <details><summary>2025 for my Linked In Learning Courses</summary>
 
@@ -12,11 +17,6 @@
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google VEO3'**
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25> Scheduled / New course **'AWS GenAI DevOps'**
 </details>
-
-## What is Here
-
-This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
-Links to artifacts are included for AWS, Azure, or GCP & more.  
 
 ### MOST VIEWED CONTENT
 
@@ -74,7 +74,7 @@ Links to artifacts are included for AWS, Azure, or GCP & more.
 
 ---
   
-### But, wait, "how do I get started in cloud?"
+### Tl;dr: "How do I get started in cloud?"
 
 If you are completely **new to cloud**, you might want to go here first --> [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/0_Starting-Points)  
 Also see my ⭐⭐⭐ - **FAQ course** - [Insights on Cloud Computing](https://www.linkedin.com/learning/insights-on-cloud-computing-with-lynn-langit) ⭐⭐⭐
