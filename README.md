@@ -3,7 +3,7 @@
 ## What's in this Repo
 
 This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
-Links to artifacts are included for AWS, Azure, or GCP & more.  
+Links, examples, short explanations and architectures are included for AWS, Azure, or GCP & more.  
 
 ## What's NEW
 
