@@ -7,26 +7,25 @@ Links, examples, short explanations and architectures are included for AWS, Azur
 
 ## What's NEW
 
-<details><summary>2025 for my Linked In Learning Courses</summary>
+<details><summary>In 2025 / LinkedIn Learning Courses</summary>
 
--  <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> PUBLISHED - Full update - both courses [**'Google Gemini v 2.x for Devs (Beg & Adv)'**](https://www.linkedin.com/learning/google-gemini-for-developers-25832309)
-- <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20>   PUBLISHED - New course [**'Learn Databricks Gen AI'**](https://www.linkedin.com/learning/learn-databricks-genai)
--  ⭐ PUBLISHED - Updated - including GenAI content! [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
-
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Recorded / New course **'Google Agentspaces'**
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled / New course **'Google VEO3'**
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25> Scheduled / New course **'AWS GenAI DevOps'**
+-  ⭐ PUBLISHED - 100% update - both courses [**'Google Gemini v 2.x for Devs (Beg & Adv)'**](https://www.linkedin.com/learning/google-gemini-for-developers-25832309)
+-  ⭐ PUBLISHED - Updated with GenAI content [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Recorded - New course **'Google Agentspaces'**
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled - New course **'Google VEO3'**
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25> Scheduled -  New course **'AWS GenAI DevOps'**
 </details>
 
 ### MOST VIEWED CONTENT
 
 <details><summary>Most viewed Cloud & GenAI Content</summary>
 
-#### GenAI
+#### GenAI Courses on Linked In Learning
 
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/chat-gpt.png" width=20>  My screencast series/YouTube playlist - **`5+ min of my ChatGPT`** - [link to playlist](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Released: **`Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/google-gemini-for-developers-25832309) on LinkedIn Learning
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Recorded: **`Advanced Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/ADV-LLM-Dev.md) and [course](https://www.linkedin.com/learning/advanced-gemini-for-developers) on LinkedIn Learning
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> **`Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/google-gemini-for-developers-25832309) 
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> **`Advanced Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/ADV-LLM-Dev.md) and [course](https://www.linkedin.com/learning/advanced-gemini-for-developers) 
+- <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20> **`Learn Databricks Gen AI`** - [link to course](https://www.linkedin.com/learning/learn-databricks-genai)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/chat-gpt.png" width=20> **`5+ min of my ChatGPT`** - screencast series (on YouTube as playlist)--[link to playlist](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
   
 
 #### GCP Topics
