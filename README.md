@@ -7,7 +7,9 @@ Links, examples, short explanations and architectures are included for AWS, Azur
 
 ## What's NEW
 
-<details><summary>In 2025 / LinkedIn Learning Courses</summary>
+<details><summary>In 2025 / LinkedIn Learning Courses</summary><br>
+  
+I have published more than 30 courses on AI, Cloud and Data topics on LinkedIn Learning - [here](https://www.linkedin.com/learning/instructors/lynn-langit)  
 
 -  ⭐ PUBLISHED - 100% update - both courses [**'Google Gemini v 2.x for Devs (Beg & Adv)'**](https://www.linkedin.com/learning/google-gemini-for-developers-25832309)
 -  ⭐ PUBLISHED - Updated with GenAI content [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
