@@ -37,8 +37,8 @@
   - A: Security, cost control - more jobs than qualified people
 ---
 
-- Q: **Can I do ML on the cloud?**
-  - A: Yes, use Jupyter Notebook instances (AWS SageMaker | GCP VertexAI)
+- Q: **Can I do Gen AI / ML on the cloud?**
+  - A: Most complete offering - GCP VertexAI
 ---
 
 - Q: **Which certifications get me the highest paying jobs?**
@@ -48,5 +48,5 @@
 - Q: **Whare are the most interesting/useful cloud data services by vendor?**
   - A: Azure - CoPilot(s), CosmosDB
   - A: AWS - S3, EC2, AWS Braket (Quantum)
-  - A: GCP - BigQuery, AutoML, DataProc (managed Apache Spark), Dataplex
+  - A: GCP - BigQuery, VertexAI, DataProc (managed Apache Spark), Dataplex
   - A: IBM - Qiskit (Quantum)
