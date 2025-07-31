@@ -75,7 +75,7 @@ I have published more than 30 courses on AI, Cloud and Data topics on LinkedIn L
 
 ---
   
-### Tl;dr: "How do I get started in cloud?"
+### TL;DR: "How do I get started in cloud?"
 
 If you are completely **new to cloud**, you might want to go here first --> [link](https://github.com/lynnlangit/learning-cloud/tree/master/0_CLOUD-PATTERNS/0_Starting-Points)  
 Also see my ⭐⭐⭐ - **FAQ course** - [Insights on Cloud Computing](https://www.linkedin.com/learning/insights-on-cloud-computing-with-lynn-langit) ⭐⭐⭐
