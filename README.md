@@ -13,8 +13,8 @@ I have published more than 30 courses on AI, Cloud and Data topics on LinkedIn L
 
 -  ⭐ PUBLISHED - 100% update - both courses [**'Google Gemini v 2.x for Devs (Beg & Adv)'**](https://www.linkedin.com/learning/google-gemini-for-developers-25832309)
 -  ⭐ PUBLISHED - Updated with GenAI content [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Recorded - New course **'Google Agentspaces'**
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled - New course **'Google VEO3'**
+-  ⭐ PUBLISHED - New course [**'Google Agentspaces'**](https://www.linkedin.com/learning/learning-google-agentspace-build-configure-and-deploy-your-own-apps)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Scheduled - New course **'Google VEO'** for video generation
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25> Scheduled -  New course **'AWS GenAI DevOps'**
 </details>
 
