@@ -2,35 +2,26 @@
 
 ## What's in this Repo
 
-This Repo contains links to **100+ resources** I've created for you to learn to work on the public cloud.    
+This Repo contains links to **100+ resources** I've created for you to learn to work on AI in the public cloud.    
 Links, examples, short explanations and architectures are included for AWS, Azure, or GCP & more.  
 
-## What's NEW
-
-<details><summary>In 2025 / LinkedIn Learning Courses</summary><br>
+## Content List
   
 I have published more than 30 courses on AI, Cloud and Data topics on LinkedIn Learning - [here](https://www.linkedin.com/learning/instructors/lynn-langit)  
 
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25>  100% update - both courses [**'Google Gemini v 2.x for Devs (Beg & Adv)'**](https://www.linkedin.com/learning/google-gemini-for-developers-25832309)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25><img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Updated with GenAI content [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25>  New course [**'Google Agentspaces'**](https://www.linkedin.com/learning/learning-google-agentspace-build-configure-and-deploy-your-own-apps)
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> New course [**'Google VEO'**](https://www.linkedin.com/learning/using-veo-3-for-ai-generated-video) for video generation
-- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25> New course [**'AWS GenAI DevOps'**](https://www.linkedin.com/learning/practical-genai-for-aws-devops-efficiently-design-script-debug-and-diagnose)
-</details>
+<details><summary>Most Viewed</summary>
 
-### MOST VIEWED CONTENT
-
-<details><summary>Most viewed Cloud & GenAI Content</summary>
-
-#### GenAI Courses on Linked In Learning
-
+### AI Courses & Topics
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Course: [**'Google Gemini v 2.x for Devs (Beg & Adv)'**](https://www.linkedin.com/learning/google-gemini-for-developers-25832309)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Course: [**'Google Agentspaces'**](https://www.linkedin.com/learning/learning-google-agentspace-build-configure-and-deploy-your-own-apps)
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Course: [**'Google VEO'**](https://www.linkedin.com/learning/using-veo-3-for-ai-generated-video) for video generation
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25> Course: [**'AWS AI DevOps'**](https://www.linkedin.com/learning/practical-genai-for-aws-devops-efficiently-design-script-debug-and-diagnose)
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> **`Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/tree/master/6_AI-ML/2_gemini_LLM) and [course](https://www.linkedin.com/learning/google-gemini-for-developers-25832309) 
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> **`Advanced Google Gemini for Developers`** - [link to repo](https://github.com/lynnlangit/gcp-essentials/blob/master/6_AI-ML/2_gemini_LLM/ADV-LLM-Dev.md) and [course](https://www.linkedin.com/learning/advanced-gemini-for-developers) 
-- <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20> **`Learn Databricks Gen AI`** - [link to course](https://www.linkedin.com/learning/learn-databricks-genai)
+- <img src="https://github.com/lynnlangit/learning-cloud/blob/master/images/databricks-icon.png" width=20> **`Learn Databricks AI`** - [link to course](https://www.linkedin.com/learning/learn-databricks-genai)
 - <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/chat-gpt.png" width=20> **`5+ min of my ChatGPT`** - screencast series (on YouTube as playlist)--[link to playlist](https://www.youtube.com/playlist?list=PL4Q4HssKcxYuwbVAgVqwM5od3yLtg9NM0)
-  
 
-#### GCP Topics
+### GCP Topics
 - 🧬 📺 :octocat: **`GCP-for-Bioinformatics`** [FREE course on GitHub](https://github.com/lynnlangit/gcp-for-bioinformatics) 
 - 📺 :octocat: **`Serverless Architecture`** course - [link](https://www.linkedin.com/learning/serverless-architecture-19870153) & [repo](https://github.com/lynnlangit/serverless-architecture)
 - 📺 :octocat: **`GCP Essentials`** and **`GCP Enterprise`** courses on LI_L - see repo for updates - [link](https://github.com/lynnlangit/gcp-essentials)
@@ -38,12 +29,13 @@ I have published more than 30 courses on AI, Cloud and Data topics on LinkedIn L
 - 📺 :octocat: **`GCP Cost Control`** [course on LI_L](https://www.linkedin.com/learning/google-cloud-controlling-cost), see repo [link](https://github.com/lynnlangit/gcp-essentials/tree/master/0_setup_and_iam_and_costs/0c_cost_control) too
 
 
-#### Data, Machine Learning and More
+### Data, Machine Learning and More
+- <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/azure.png" width=23><img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/aws.png" width=25> <img src="https://github.com/lynnlangit/sample-data/blob/master/1_sample_data/emoji-icons/gcp.png" width=25> Course: [**'Cloud Careers and Certifications'**](https://www.linkedin.com/learning/cloud-computing-careers-and-certifications)
 - 📺 :octocat:**`Learning SnowflakeDB`** [course on LI_L](https://www.linkedin.com/learning/learning-snowflakedb) & associated repo at [link](https://github.com/lynnlangit/learn-snowflakedb)
 - 📺 :octocat: **`Cloud Quantum Computing`** [course on LI_L](https://www.linkedin.com/learning/cloud-quantum-computing-essentials) & associated working repo at [link](https://github.com/lynnlangit/learning-quantum/tree/main/2_cloud-vendors)
 - :octocat: Studies on  **`Learning Ethical AI`** , my resources repo at [link](https://github.com/lynnlangit/learning-ethical-ai)
-- 🧬 :octocat: In preview - **`aws-for-bioinformatics`** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
-- 📚 :octocat: 📺 **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
+- 🧬 :octocat: **`aws-for-bioinformatics`** a FREE and open source course on GitHub and YouTube - [link](https://github.com/lynnlangit/aws-for-bioinformatics)
+- 📚 📺 :octocat: **`Learning Data Mesh`** [repo + book club](https://github.com/lynnlangit/learning-data-mesh)
 
 </details>
 
